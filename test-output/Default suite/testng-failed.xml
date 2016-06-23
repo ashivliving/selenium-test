@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="firsttestngproject.FirstTestNGFile">
+        <methods>
+          <include name="setUp"/>
+          <include name="category"/>
+          <include name="travel"/>
+          <include name="community"/>
+          <include name="logout"/>
+          <include name="deals"/>
+          <include name="testMytokriLogin"/>
+          <include name="testMytokriSignup"/>
+          <include name="stores"/>
+        </methods>
+      </class> <!-- firsttestngproject.FirstTestNGFile -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
