@@ -8,6 +8,8 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriverService;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
@@ -18,12 +20,13 @@ public class phantom {
 	 
 		@BeforeSuite
 		public void setUp(){
-			File file = new File("/usr/local/share/phantomjs-2.1.1-linux-x86_64/bin/phantomjs");				
-            System.setProperty("phantomjs.binary.path", file.getAbsolutePath());		
-            driver = new PhantomJSDriver();	
-            //driver.get("http://www.google.com"); 
-            baseUrl = "http://www.mytokri.com";
-            driver.get("http://www.mytokri.com");
+			DesiredCapabilities caps = new DesiredCapabilities();
+			 caps.setJavascriptEnabled(true);
+			 caps.setCapability("takesScreenshot", true);
+			 caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,"/usr/local/share/phantomjs-2.1.1-linux-x86_64/bin/phantomjs");
+			 driver = new PhantomJSDriver(caps);
+			 baseUrl = "http://www.mytokri.com";
+            driver.get(baseUrl);
 		}
 		
 		@Test(priority = 1)
@@ -34,10 +37,11 @@ public class phantom {
 		
 		@Test(priority = 2)
 		public void checkLogIn(){
+			 driver.get("http://www.mytokri.com/amazon-lightning-deals-25th-june-2016.75801/");
 			long iStart = System.currentTimeMillis(); 
-			if(driver.findElements(By.id("popcl")).size() != 0){
-				driver.findElement(By.id("popcl")).click();
-			}
+			// if(driver.findElement(By.id("popcl"))!= null){
+			//	driver.findElement(By.id("popcl")).click();
+			 //  }
 			driver.manage().window().maximize();
 			 driver.findElement(By.linkText("Login")).click();
 			    driver.findElement(By.id("ctrl_pageLogin_login")).clear();
@@ -48,6 +52,7 @@ public class phantom {
 			      driver.findElement(By.id("ctrl_pageLogin_remember")).click();
 			    };
 			    driver.findElement(By.cssSelector("input.btn.btn-primary")).click();
+			    driver.navigate().to(baseUrl);
 			    File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 			    try{
 			    FileUtils.copyFile(scrFile, new File("/home/ashivliving/workspace/image.jpg"),true);
