@@ -341,3 +341,4 @@
   global code (http://www.mytokri.com/amazon-lightning-deals-25th-june-2016.75801/:8534)
 [INFO  - 2016-06-25T08:43:10.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-06-25T08:43:17.239Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-06-25T08:44:39.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
