@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="78349" started-at="2016-06-27T07:29:21Z" finished-at="2016-06-27T07:30:39Z">
+  <suite name="Suite" duration-ms="56541" started-at="2016-06-27T07:49:13Z" finished-at="2016-06-27T07:50:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="78349" started-at="2016-06-27T07:29:21Z" finished-at="2016-06-27T07:30:39Z">
-      <class name="firsttestngproject.phantom">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.phantom@cc285f4]" name="setUp" is-config="true" duration-ms="20457" started-at="2016-06-27T12:59:01Z" finished-at="2016-06-27T12:59:21Z">
+    <test name="Test" duration-ms="56541" started-at="2016-06-27T07:49:13Z" finished-at="2016-06-27T07:50:09Z">
+      <class name="firsttestngproject.test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.test@cc285f4]" name="setUp" is-config="true" duration-ms="28592" started-at="2016-06-27T13:18:44Z" finished-at="2016-06-27T13:19:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="checkTitle()[pri:1, instance:firsttestngproject.phantom@cc285f4]" name="checkTitle" duration-ms="53" started-at="2016-06-27T12:59:21Z" finished-at="2016-06-27T12:59:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- checkTitle -->
-        <test-method status="PASS" signature="checkLogIn()[pri:2, instance:firsttestngproject.phantom@cc285f4]" name="checkLogIn" duration-ms="30902" started-at="2016-06-27T12:59:21Z" finished-at="2016-06-27T12:59:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- checkLogIn -->
-        <test-method status="PASS" signature="checkmenubar2()[pri:3, instance:firsttestngproject.phantom@cc285f4]" name="checkmenubar2" duration-ms="47370" started-at="2016-06-27T12:59:52Z" finished-at="2016-06-27T13:00:39Z">
+        <test-method status="PASS" signature="checkmenubar2()[pri:1, instance:firsttestngproject.test@cc285f4]" name="checkmenubar2" duration-ms="56517" started-at="2016-06-27T13:19:13Z" finished-at="2016-06-27T13:20:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkmenubar2 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.phantom@cc285f4]" name="tearDown" is-config="true" duration-ms="79" started-at="2016-06-27T13:00:39Z" finished-at="2016-06-27T13:00:40Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.test@cc285f4]" name="tearDown" is-config="true" duration-ms="80" started-at="2016-06-27T13:20:09Z" finished-at="2016-06-27T13:20:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- firsttestngproject.phantom -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- firsttestngproject.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
