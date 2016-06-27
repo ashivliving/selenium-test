@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="56541" started-at="2016-06-27T07:49:13Z" finished-at="2016-06-27T07:50:09Z">
+  <suite name="Suite" duration-ms="69879" started-at="2016-06-27T07:56:24Z" finished-at="2016-06-27T07:57:33Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="56541" started-at="2016-06-27T07:49:13Z" finished-at="2016-06-27T07:50:09Z">
+    <test name="Test" duration-ms="69879" started-at="2016-06-27T07:56:24Z" finished-at="2016-06-27T07:57:33Z">
       <class name="firsttestngproject.test">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.test@cc285f4]" name="setUp" is-config="true" duration-ms="28592" started-at="2016-06-27T13:18:44Z" finished-at="2016-06-27T13:19:13Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.test@cc285f4]" name="setUp" is-config="true" duration-ms="26389" started-at="2016-06-27T13:25:57Z" finished-at="2016-06-27T13:26:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="checkmenubar2()[pri:1, instance:firsttestngproject.test@cc285f4]" name="checkmenubar2" duration-ms="56517" started-at="2016-06-27T13:19:13Z" finished-at="2016-06-27T13:20:09Z">
+        <test-method status="PASS" signature="checkmenubar2()[pri:1, instance:firsttestngproject.test@cc285f4]" name="checkmenubar2" duration-ms="69861" started-at="2016-06-27T13:26:24Z" finished-at="2016-06-27T13:27:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkmenubar2 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.test@cc285f4]" name="tearDown" is-config="true" duration-ms="80" started-at="2016-06-27T13:20:09Z" finished-at="2016-06-27T13:20:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.test@cc285f4]" name="tearDown" is-config="true" duration-ms="78" started-at="2016-06-27T13:27:33Z" finished-at="2016-06-27T13:27:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

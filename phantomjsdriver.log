@@ -1092,3 +1092,35 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflCUBHWP/www-embed-player.js:516
   (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:3877)
   (anonymous function) (:0)
 [INFO  - 2016-06-27T07:50:09.764Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-06-27T07:54:51.101Z] GhostDriver - Main - running on port 14622
+[INFO  - 2016-06-27T07:54:51.308Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-06-27T07:54:51.308Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - page.customHeaders:  - {}
+[INFO  - 2016-06-27T07:54:51.311Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-06-27T07:54:51.311Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6d6e5370-3c3c-11e6-97d5-47a761f64e96
+[ERROR - 2016-06-27T07:55:16.830Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-06-27T07:55:16.830Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - page.onError - stack:
+  global code (http://www.mytokri.com/amazon-lightning-deals-25th-june-2016.75801/:7810)
+[ERROR - 2016-06-27T07:55:39.212Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-06-27T07:55:39.212Z] Session [6d6e5370-3c3c-11e6-97d5-47a761f64e96] - page.onError - stack:
+  global code (http://www.mytokri.com/amazon-lightning-deals-25th-june-2016.75801/:8538)
+[INFO  - 2016-06-27T07:55:45.892Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-06-27T07:55:58.430Z] GhostDriver - Main - running on port 21084
+[INFO  - 2016-06-27T07:55:58.652Z] Session [95920d60-3c3c-11e6-817c-71189e68f727] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-06-27T07:55:58.652Z] Session [95920d60-3c3c-11e6-817c-71189e68f727] - page.customHeaders:  - {}
+[INFO  - 2016-06-27T07:55:58.652Z] Session [95920d60-3c3c-11e6-817c-71189e68f727] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-06-27T07:55:58.652Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 95920d60-3c3c-11e6-817c-71189e68f727
+[ERROR - 2016-06-27T07:57:17.406Z] Session [95920d60-3c3c-11e6-817c-71189e68f727] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:7111:109
+oA@https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:2163:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:4115:81
+$8@https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:4201:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:7101:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflCUBHWP/www-embed-player.js:482:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflCUBHWP/www-embed-player.js:482:318
+Rh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflCUBHWP/www-embed-player.js:480:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflCUBHWP/www-embed-player.js:473:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflCUBHWP/www-embed-player.js:516:422
+[ERROR - 2016-06-27T07:57:17.406Z] Session [95920d60-3c3c-11e6-817c-71189e68f727] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflLyLvKU/base.js:3877)
+  (anonymous function) (:0)
+[INFO  - 2016-06-27T07:57:33.948Z] ShutdownReqHand - _handle - About to shutdown
