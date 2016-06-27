@@ -7,6 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="checkLogIn"/>
+          <include name="checkmenubar2"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- firsttestngproject.phantom -->
