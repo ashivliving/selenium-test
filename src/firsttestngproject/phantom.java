@@ -1,7 +1,13 @@
 package firsttestngproject;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
@@ -31,16 +37,28 @@ public class phantom {
 		}
 		
 		@Test(priority = 1)
-		public void checkTitle(){	
-			System.out.println(driver.getTitle());
+		public void checkTitle() throws FileNotFoundException, UnsupportedEncodingException{	
+			PrintWriter writer = new PrintWriter("result.txt", "UTF-8");
+			writer.println(driver.getTitle());
+			writer.println("Result ---->");
+			writer.close();
+			//System.out.println(driver.getTitle());
 		}
 		
 		@Test(priority = 2)
 		public void checkLogIn(){
-			 driver.get("http://www.mytokri.com/amazon-lightning-deals-25th-june-2016.75801/");
-			long iStart = System.currentTimeMillis(); 
+			try(FileWriter fw = new FileWriter("result.txt", true);
+				    BufferedWriter bw = new BufferedWriter(fw);
+				    PrintWriter out = new PrintWriter(bw))
+				{
 			driver.manage().window().maximize();
-			 driver.findElement(By.linkText("Login")).click();
+			long iStart = System.currentTimeMillis(); 
+			 driver.findElement(By.xpath("/html/body/header/div/div/div/div/a[6]")).click();
+			 try {
+				    Thread.sleep(1000);                 //1000 milliseconds is one second.
+				} catch(InterruptedException ex) {
+				    Thread.currentThread().interrupt();
+				}
 			    driver.findElement(By.id("ctrl_pageLogin_login")).clear();
 			    driver.findElement(By.id("ctrl_pageLogin_login")).sendKeys("ashivliving@gmail.com");
 			    driver.findElement(By.id("ctrl_pageLogin_password")).clear();
@@ -50,15 +68,19 @@ public class phantom {
 			    };
 			    driver.findElement(By.cssSelector("input.btn.btn-primary")).click();
 			    driver.navigate().to(baseUrl);
-			    File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-			    try{
-			    FileUtils.copyFile(scrFile, new File("/home/ashivliving/workspace/image.jpg"),true);
-			    System.out.println("Login Successful!");
-			    }  catch(Exception e){
-			    	System.out.println("Can't capture screenshot!");
-			    }
-			    System.out.println("Single Page Time:" + (System.currentTimeMillis() - iStart));
-			    
+			    //File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			    //try{
+			    //FileUtils.copyFile(scrFile, new File("/home/ashivliving/workspace/image.jpg"),true);
+			    	out.println("Login Successful!");
+			    //}  catch(Exception e){
+			    //	out.println("Can't capture screenshot!");
+			    //}
+			        out.println("Single Page Time:" + (System.currentTimeMillis() - iStart));
+				
+				}
+				catch (IOException e) {
+					   
+				}
 		}
 		
 		@AfterSuite

@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="firsttestngproject.test">
+      <class name="firsttestngproject.menutest">
         <methods>
-          <include name="setUp"/>
-          <include name="checkfooter"/>
           <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="checkmenu1"/>
         </methods>
-      </class> <!-- firsttestngproject.test -->
+      </class> <!-- firsttestngproject.menutest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

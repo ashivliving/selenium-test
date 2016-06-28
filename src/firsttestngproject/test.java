@@ -1,7 +1,11 @@
 package firsttestngproject;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
@@ -31,6 +35,10 @@ public class test {
 		
 		@Test(priority = 1)
 		public void checkmenubar2() throws IOException{
+			try(FileWriter fw = new FileWriter("result.txt", true);
+				    BufferedWriter bw = new BufferedWriter(fw);
+				    PrintWriter out = new PrintWriter(bw))
+				{
 			driver.manage().window().maximize();	
 			
 			String[] keywords = {"buy 1 get 1","mobile phone","snapdeal coupons",
@@ -45,25 +53,25 @@ public class test {
 			  String str2 = keywords[i-1];
 			  if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 			  {		error++;
-				  	File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-				    try{
-				    FileUtils.copyFile(scrFile, new File("/home/ashivliving/workspace/FirstTestNGProject/src/firsttestngproject/image/menu2" + error +".jpg"),true);
-				    System.out.println("Error occur at "+ str2 + " page!");
-				    }  catch(Exception e){
-				    	System.out.println("Can't capture screenshot!");
-				    }
+				  	out.println("Error occur at "+ str2 + " page!");  
 			  }
 			}
 			if(error==0)
-				System.out.println("Menubar 2 working correctly");
+					out.println("Menubar 2 working correctly");
 			else
-				System.out.println("There are "+ error + " errors!");
-			
+					out.println("There are "+ error + " errors!");
+				}
+			catch (IOException e) {
+				   
+			}
 		}
 		
 		@Test(priority = 2)
 		public void checkfooter()
-		{
+		{	try(FileWriter fw = new FileWriter("result.txt", true);
+			    BufferedWriter bw = new BufferedWriter(fw);
+			    PrintWriter out = new PrintWriter(bw))
+			{
 			driver.manage().window().maximize();
 			String[] keyword_about = {"about us","privacy policy","sitemap",
 					"advertise with us","blog",
@@ -90,13 +98,13 @@ public class test {
 				String str2 = keyword_about[i-2];
 				if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 				  {		error++;
-					  	System.out.println("Error occur at ABOUT section : "+ str2 + " page!");  
+					  	out.println("Error occur at ABOUT section : "+ str2 + " page!");  
 				  }
 			}
 				if(error==0)
-					System.out.println("No error in Footer ABOUT");
+					out.println("No error in Footer ABOUT");
 				else
-					System.out.println("There are "+ error + " errors in footer ABOUT!");	
+					out.println("There are "+ error + " errors in footer ABOUT!");	
 
 			//============> Category <=============
 				error = 0;
@@ -108,13 +116,13 @@ public class test {
 					String str2 = keyword_category[i-1];
 					if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 					  {		error++;
-						  	System.out.println("Error occur at CATEGORY section : "+ str2 + " page!");  
+						  	out.println("Error occur at CATEGORY section : "+ str2 + " page!");  
 					  }
 				}
 					if(error==0)
-						System.out.println("No error in Footer CATEGORY");
+						out.println("No error in Footer CATEGORY");
 					else
-						System.out.println("There are "+ error + " errors in footer CATEGORY!");
+						out.println("There are "+ error + " errors in footer CATEGORY!");
 					
 			//==========> Stores <==========
 					error = 0;
@@ -126,15 +134,16 @@ public class test {
 						String str2 = keyword_store[i-1];
 						if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 						  {		error++;
-							  	System.out.println("Error occur at STORES section : "+ str2 + " page!");  
+							  	out.println("Error occur at STORES section : "+ str2 + " page!");  
 						  }
 						
 					}
 						if(error==0)
-							System.out.println("No error in Footer STORES");
+							out.println("No error in Footer STORES");
 						else
-							System.out.println("There are "+ error + " errors in footer STORES!");
-			//==========> Occasion <=============			
+							out.println("There are "+ error + " errors in footer STORES!");
+			//==========> Occasion <=============	
+						/*
 						error = 0;
 						for(int i=1;i<=5;i++)
 						{	
@@ -144,15 +153,20 @@ public class test {
 							String str2 = keyword_occasion[i-1];
 							if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 							  {		error++;
-								  	System.out.println("Error occur at Occasion section : "+ str2 + " page!");  
+								  	out.println("Error occur at Occasion section : "+ str2 + " page!");  
 							  }
 							
 						}
 							if(error==0)
-								System.out.println("No error in Footer Occasion");
+								out.println("No error in Footer Occasion");
 							else
-								System.out.println("There are "+ error + " errors in footer Occasion!");
+								out.println("There are "+ error + " errors in footer Occasion!");
+								*/
+			}
+		catch (IOException e) {
+			   
 		}
+			}
 		
 		
 		@AfterSuite
