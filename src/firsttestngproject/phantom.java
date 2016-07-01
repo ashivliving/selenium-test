@@ -70,9 +70,9 @@ public class phantom {
 			    //File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 			    //try{
 			    //FileUtils.copyFile(scrFile, new File("/home/ashivliving/workspace/image.jpg"),true);
-			    	out.println("Login Successful!");
+			    	System.out.println("Login Successful!");
 			    //}  catch(Exception e){
-			    //	out.println("Can't capture screenshot!");
+			    //	System.out.println("Can't capture screenshot!");
 			    //}
 			        out.println("Single Page Time:" + (System.currentTimeMillis() - iStart));
 				

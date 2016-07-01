@@ -197,6 +197,12 @@ public class test {
 						    Actions action = new Actions(driver);
 						    action.moveToElement(driver.findElement(By.xpath("//*[@id='mytokrinav']/li[6]/a")), 97, 16).click().build().perform();
 						    
+						    try {
+							    Thread.sleep(100);                 //100 milliseconds is one second.
+							} catch(InterruptedException ex) {
+							    Thread.currentThread().interrupt();
+							}
+						    
 						    String str = "//*[@id='mytokrinav']/li[6]/ul/li["+i+"]/ul/li["+j+"]/a";
 						    driver.findElement(By.xpath(str)).click();
 						    String str1 = driver.getTitle();

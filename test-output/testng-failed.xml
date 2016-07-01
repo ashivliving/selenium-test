@@ -5,9 +5,9 @@
     <classes>
       <class name="firsttestngproject.UserAgent">
         <methods>
+          <include name="test"/>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="checkTitle2"/>
         </methods>
       </class> <!-- firsttestngproject.UserAgent -->
     </classes>

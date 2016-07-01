@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="776505" started-at="2016-07-01T06:24:37Z" finished-at="2016-07-01T06:37:33Z">
+  <suite name="Default suite" duration-ms="5289" started-at="2016-07-01T07:49:06Z" finished-at="2016-07-01T07:49:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="776505" started-at="2016-07-01T06:24:37Z" finished-at="2016-07-01T06:37:33Z">
-      <class name="firsttestngproject.test">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.test@cc285f4]" name="setUp" is-config="true" duration-ms="13775" started-at="2016-07-01T11:54:23Z" finished-at="2016-07-01T11:54:37Z">
+    <test name="Default test" duration-ms="5289" started-at="2016-07-01T07:49:06Z" finished-at="2016-07-01T07:49:11Z">
+      <class name="firsttestngproject.UserAgent">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.UserAgent@cc285f4]" name="setUp" is-config="true" duration-ms="9831" started-at="2016-07-01T13:18:56Z" finished-at="2016-07-01T13:19:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="checkMenuBar()[pri:1, instance:firsttestngproject.test@cc285f4]" name="checkMenuBar" duration-ms="676622" started-at="2016-07-01T11:54:37Z" finished-at="2016-07-01T12:05:54Z">
+        <test-method status="PASS" signature="checkMenuBar()[pri:1, instance:firsttestngproject.UserAgent@cc285f4]" name="checkMenuBar" duration-ms="5270" started-at="2016-07-01T13:19:06Z" finished-at="2016-07-01T13:19:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkMenuBar -->
-        <test-method status="PASS" signature="checkMenuBar2()[pri:2, instance:firsttestngproject.test@cc285f4]" name="checkMenuBar2" duration-ms="32036" started-at="2016-07-01T12:05:54Z" finished-at="2016-07-01T12:06:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- checkMenuBar2 -->
-        <test-method status="PASS" signature="checkfooter()[pri:3, instance:firsttestngproject.test@cc285f4]" name="checkfooter" duration-ms="67813" started-at="2016-07-01T12:06:26Z" finished-at="2016-07-01T12:07:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- checkfooter -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.test@cc285f4]" name="tearDown" is-config="true" duration-ms="73" started-at="2016-07-01T12:07:33Z" finished-at="2016-07-01T12:07:34Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.UserAgent@cc285f4]" name="tearDown" is-config="true" duration-ms="198" started-at="2016-07-01T13:19:11Z" finished-at="2016-07-01T13:19:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- firsttestngproject.test -->
+      </class> <!-- firsttestngproject.UserAgent -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
