@@ -1,17 +1,14 @@
 package firsttestngproject;
 
 import java.io.BufferedWriter;
-import java.io.File;
+import java.util.Date;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 
-import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriverService;
@@ -39,6 +36,8 @@ public class phantom {
 		@Test(priority = 1)
 		public void checkTitle() throws FileNotFoundException, UnsupportedEncodingException{	
 			PrintWriter writer = new PrintWriter("result.txt", "UTF-8");
+			Date date = new Date();
+			writer.println(date.toString());
 			writer.println(driver.getTitle());
 			writer.println("Result ---->");
 			writer.close();

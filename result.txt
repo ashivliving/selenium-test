@@ -1,6 +1,14 @@
+Fri Jul 01 11:53:55 IST 2016
 Mytokri - Best Deals, Coupons, Offers, Freebies in India, Deals Website
 Result ---->
 Login Successful!
-Single Page Time:8184
-Login Successful!
-Login Successful!
+Single Page Time:10676
+No error in Menubar DEALS
+No error in Menubar TRAVEL
+No error in Menubar COMMUNITY
+No error in Menubar STORES
+No error in Menubar CATEGORIES
+Menubar 2 working correctly
+No error in Footer ABOUT
+No error in Footer CATEGORY
+No error in Footer STORES
