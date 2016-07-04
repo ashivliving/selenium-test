@@ -114,11 +114,14 @@ public class menutest {
 			}
 		}
 		
-		/*
-		@Test(priority = 1)
+		
+		@Test(priority = 2)
 		public void sidebar_popular() throws FileNotFoundException, UnsupportedEncodingException
 		{	
-			
+			try(FileWriter fw = new FileWriter("result.txt", true);
+				    BufferedWriter bw = new BufferedWriter(fw);
+				    PrintWriter out = new PrintWriter(bw))
+				{
 			int error = 0; 
 			for(int i=1;i<=5;i++)
 			{	
@@ -130,17 +133,21 @@ public class menutest {
 				if(!(str2.toLowerCase().contains(str1.toLowerCase())))
 				{
 					error++;
-					System.out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
+					out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
 				}
 				
 				driver.navigate().to(baseUrl);
 			}
 			if(error==0)
-				System.out.println("No error in Sidebar Popular Deals");
+				out.println("No error in Sidebar Popular Deals");
 			else
-				System.out.println("There are "+ error + " errors in Sidebar Popular Deals!");	
+				out.println("There are "+ error + " errors in Sidebar Popular Deals!");
+				}catch(IOException e){
+					
+				}
 		}
 		
+		/*
 		@Test(priority = 2)
 		public void coupan_page() throws FileNotFoundException, UnsupportedEncodingException
 		{

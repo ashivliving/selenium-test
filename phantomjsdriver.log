@@ -6591,3 +6591,22 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518
 [INFO  - 2016-07-04T11:42:53.800Z] Session [71b75670-41dc-11e6-bb7f-556d3c92b6db] - page.customHeaders:  - {}
 [INFO  - 2016-07-04T11:42:53.802Z] Session [71b75670-41dc-11e6-bb7f-556d3c92b6db] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
 [INFO  - 2016-07-04T11:42:53.804Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 71b75670-41dc-11e6-bb7f-556d3c92b6db
+[ERROR - 2016-07-04T11:45:08.652Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467632708536
+[INFO  - 2016-07-04T11:45:29.518Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:45:45.977Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:47:00.929Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:50:29.444Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:50:45.976Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:52:00.928Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:55:29.443Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:55:45.977Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T11:57:00.928Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T12:00:29.666Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T12:00:49.622Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T12:02:05.534Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+                                                                                                                                          [INFO  - 2016-07-04T12:16:51.303Z] GhostDriver - Main - running on port 30484
+[INFO  - 2016-07-04T12:16:52.239Z] Session [30b9f880-41e1-11e6-9d8b-5bdd9c93dbbc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-04T12:16:52.239Z] Session [30b9f880-41e1-11e6-9d8b-5bdd9c93dbbc] - page.customHeaders:  - {}
+[INFO  - 2016-07-04T12:16:52.240Z] Session [30b9f880-41e1-11e6-9d8b-5bdd9c93dbbc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-04T12:16:52.240Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 30b9f880-41e1-11e6-9d8b-5bdd9c93dbbc
+[INFO  - 2016-07-04T12:17:49.983Z] ShutdownReqHand - _handle - About to shutdown

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="86087" started-at="2016-07-04T11:37:20Z" finished-at="2016-07-04T11:38:46Z">
+  <suite name="Default suite" duration-ms="42306" started-at="2016-07-04T12:17:07Z" finished-at="2016-07-04T12:17:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="86087" started-at="2016-07-04T11:37:20Z" finished-at="2016-07-04T11:38:46Z">
+    <test name="Default test" duration-ms="42306" started-at="2016-07-04T12:17:07Z" finished-at="2016-07-04T12:17:49Z">
       <class name="firsttestngproject.menutest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.menutest@2b98378d]" name="setUp" is-config="true" duration-ms="43436" started-at="2016-07-04T17:06:37Z" finished-at="2016-07-04T17:07:20Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.menutest@cc285f4]" name="setUp" is-config="true" duration-ms="29689" started-at="2016-07-04T17:46:37Z" finished-at="2016-07-04T17:47:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="search()[pri:1, instance:firsttestngproject.menutest@2b98378d]" name="search" duration-ms="86034" started-at="2016-07-04T17:07:20Z" finished-at="2016-07-04T17:08:46Z">
+        <test-method status="PASS" signature="sidebar_popular()[pri:1, instance:firsttestngproject.menutest@cc285f4]" name="sidebar_popular" duration-ms="42208" started-at="2016-07-04T17:47:07Z" finished-at="2016-07-04T17:47:49Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- search -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.menutest@2b98378d]" name="tearDown" is-config="true" duration-ms="237" started-at="2016-07-04T17:08:47Z" finished-at="2016-07-04T17:08:47Z">
+        </test-method> <!-- sidebar_popular -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.menutest@cc285f4]" name="tearDown" is-config="true" duration-ms="258" started-at="2016-07-04T17:47:49Z" finished-at="2016-07-04T17:47:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
