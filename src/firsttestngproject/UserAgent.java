@@ -10,6 +10,7 @@ import java.io.UnsupportedEncodingException;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -79,7 +80,7 @@ public class UserAgent {
 								Actions action = new Actions(driver);
 								action.moveToElement(driver.findElement(By.xpath("//*[@id='mytokrinav']/li[6]/a")), 97, 16).click().build().perform();
 				
-				
+								try{
 								String str = "//*[@id='mytokrinav']/li[6]/ul/li["+i+"]/ul/li["+j+"]/a";
 								driver.findElement(By.xpath(str)).click();
 								String str1 = driver.getTitle();
@@ -90,10 +91,14 @@ public class UserAgent {
 								{		error++;
 									out.println("Error occur at Menubar CATEGORIES : "+ str2 + " page!");  
 								}
+								}
+								catch(NoSuchElementException e){
+									continue;
+								}
 				
 				
 							}
-							System.out.println("hey");
+							//System.out.println("hey");
 						}
 				 }
 					if(error==0)
