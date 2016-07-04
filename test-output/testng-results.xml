@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="293248" started-at="2016-07-04T10:36:10Z" finished-at="2016-07-04T10:41:03Z">
+  <suite name="Default suite" duration-ms="286314" started-at="2016-07-04T11:02:24Z" finished-at="2016-07-04T11:07:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="293248" started-at="2016-07-04T10:36:10Z" finished-at="2016-07-04T10:41:03Z">
+    <test name="Default test" duration-ms="286314" started-at="2016-07-04T11:02:24Z" finished-at="2016-07-04T11:07:10Z">
       <class name="firsttestngproject.UserAgent">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.UserAgent@cc285f4]" name="setUp" is-config="true" duration-ms="17188" started-at="2016-07-04T16:05:53Z" finished-at="2016-07-04T16:06:10Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.UserAgent@2b98378d]" name="setUp" is-config="true" duration-ms="32663" started-at="2016-07-04T16:31:51Z" finished-at="2016-07-04T16:32:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="checkMenuBarCat()[pri:1, instance:firsttestngproject.UserAgent@cc285f4]" name="checkMenuBarCat" duration-ms="293174" started-at="2016-07-04T16:06:10Z" finished-at="2016-07-04T16:11:03Z">
+        <test-method status="PASS" signature="checkMenuBarCat()[pri:1, instance:firsttestngproject.UserAgent@2b98378d]" name="checkMenuBarCat" duration-ms="286261" started-at="2016-07-04T16:32:24Z" finished-at="2016-07-04T16:37:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkMenuBarCat -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.UserAgent@cc285f4]" name="tearDown" is-config="true" duration-ms="215" started-at="2016-07-04T16:11:03Z" finished-at="2016-07-04T16:11:03Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.UserAgent@2b98378d]" name="tearDown" is-config="true" duration-ms="1200" started-at="2016-07-04T16:37:10Z" finished-at="2016-07-04T16:37:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

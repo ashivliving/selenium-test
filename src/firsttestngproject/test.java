@@ -30,6 +30,7 @@ public class test {
 			 driver = new PhantomJSDriver(caps);
 			 baseUrl = "http://www.mytokri.com";
 			 driver.get(baseUrl);
+			 driver.manage().window().maximize();
 		}
 		
 		
@@ -40,7 +41,7 @@ public class test {
 				    PrintWriter out = new PrintWriter(bw))
 				{
 			
-			driver.manage().window().maximize();
+			
 		    int error;
 		    
 		    
@@ -235,7 +236,7 @@ public class test {
 				    BufferedWriter bw = new BufferedWriter(fw);
 				    PrintWriter out = new PrintWriter(bw))
 				{
-			driver.manage().window().maximize();	
+				
 			
 			String[] keywords = {"buy 1 get 1","mobile phone","snapdeal coupons",
 					             "computers coupons","Amazon india offers","fashion offer",
@@ -267,7 +268,7 @@ public class test {
 			    BufferedWriter bw = new BufferedWriter(fw);
 			    PrintWriter out = new PrintWriter(bw))
 			{
-			driver.manage().window().maximize();
+			
 			String[] keyword_about = {"about us","privacy policy","sitemap",
 					"advertise with us","blog",
 					"careers with us","contact us"};

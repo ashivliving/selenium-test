@@ -13,3 +13,4 @@ No error in Footer ABOUT
 No error in Footer CATEGORY
 No error in Footer STORES
 No error in Menubar CATEGORIES
+No error in Menubar CATEGORIES
