@@ -10,6 +10,7 @@ import java.io.UnsupportedEncodingException;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -37,8 +38,97 @@ public class menutest {
 		}
 		
 		@Test(priority = 1)
-		public void checkmenu1() throws FileNotFoundException, UnsupportedEncodingException
+		public void search() throws FileNotFoundException, UnsupportedEncodingException
+		{	String str1,str2,data;
+			boolean available=true;
+			int correct=0,i=0,j=0;
+			String keyword;
+			String[] keydata = {"Amazon","book","selfie"};
+			
+	    	while(j<keydata.length)
+	    	{ keyword = keydata[j++];
+		    while(available)
+		    {	driver.findElement(By.id("livesearch")).clear();
+			    driver.findElement(By.id("livesearch")).sendKeys(keyword);
+			    driver.findElement(By.id("livesearchsubmit")).click();
+		    	int k = (i/4)+1;
+		    	int l = (i%4)+1;
+		    	
+		    	str2 = "//*[@id='mytokridata']/div/div[1]/div[1]/div["+k+"]/div["+l+"]/div";
+		    	try{
+		    		str1 = driver.findElement(By.xpath(str2)).getText();
+		    	}
+		    	catch(NoSuchElementException e){
+		    		available = false;
+		    		continue;
+		    	}
+		    	
+		    	
+		    	String search_xpath1 = "//*[@id='mytokridata']/div/div[1]/div[1]/div["+k+"]/div["+l+"]/div/div[2]/a";
+		    	String search_xpath2 = "//*[@id='mytokridata']/div/div[1]/div[1]/div["+k+"]/div["+l+"]/div/div[3]/a";
+		    
+		    	if(!(str1.toLowerCase().contains(keyword.toLowerCase())))
+				{
+		    		try{
+		    			driver.findElement(By.xpath(search_xpath1)).click();
+		    		}
+		    		catch(NoSuchElementException e){
+		    			driver.findElement(By.xpath(search_xpath2)).click();
+		    		}
+		    			try{
+		    				 data = driver.findElement(By.xpath("//*[@id='messageList']")).getText();
+		    			}
+		    			catch(NoSuchElementException e){
+		    	             data = driver.findElement(By.xpath("/html/body/div[3]/div/div[1]/div[1]")).getText();
+		    	             data = data + driver.findElement(By.xpath("/html/body/div[3]/div/div[1]/div[3]")).getText();
+		    	        }
+		    			if(data.toLowerCase().contains(keyword.toLowerCase()))
+		    		     correct++;
+		    			
+		    			driver.navigate().back();
+		    			
+				}
+		    	else{
+		    		correct++;
+		    	}
+		    	i++;
+		    		
+		    }
+		    System.out.println("Correct "+keyword+" - "+correct+"/"+i+"");  
+		}
+		
+		}
+		
+		/*
+		@Test(priority = 1)
+		public void sidebar_popular() throws FileNotFoundException, UnsupportedEncodingException
 		{	
+			
+			int error = 0; 
+			for(int i=1;i<=5;i++)
+			{	
+				String sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
+				String str1 = driver.findElement(By.xpath(sidexpath)).getText();
+				driver.findElement(By.xpath(sidexpath)).click();
+				String str2 = driver.getTitle();
+				
+				if(!(str2.toLowerCase().contains(str1.toLowerCase())))
+				{
+					error++;
+					System.out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
+				}
+				
+				driver.navigate().to(baseUrl);
+			}
+			if(error==0)
+				System.out.println("No error in Sidebar Popular Deals");
+			else
+				System.out.println("There are "+ error + " errors in Sidebar Popular Deals!");	
+		}
+		
+		@Test(priority = 2)
+		public void coupan_page() throws FileNotFoundException, UnsupportedEncodingException
+		{
 			String xpath1 = "//*[@id='mytokridata']/div/div[1]/div[1]/div[2]/div[1]/div/div[2]/a";
 			String xpath2 = "//*[@id='mytokridata']/div/div[1]/div[1]/div[2]/div[1]/div/div[3]/a";
 			
@@ -50,11 +140,9 @@ public class menutest {
 			else{
 				driver.findElement(By.xpath(xpath1)).click();
 			}
-			
-			
-			
 			System.out.println(driver.getTitle());
 		}
+		*/
 		
 		@AfterSuite
 		 public void tearDown(){

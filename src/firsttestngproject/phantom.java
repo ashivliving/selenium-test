@@ -70,7 +70,7 @@ public class phantom {
 			    //File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 			    //try{
 			    //FileUtils.copyFile(scrFile, new File("/home/ashivliving/workspace/image.jpg"),true);
-			    	System.out.println("Login Successful!");
+			    	out.println("Login Successful!");
 			    //}  catch(Exception e){
 			    //	System.out.println("Can't capture screenshot!");
 			    //}

@@ -88,7 +88,7 @@ public class UserAgent {
 								String str2 = keyword_menucategory[k++];
 								if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 								{		error++;
-									System.out.println("Error occur at Menubar CATEGORIES : "+ str2 + " page!");  
+									out.println("Error occur at Menubar CATEGORIES : "+ str2 + " page!");  
 								}
 				
 				

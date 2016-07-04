@@ -5,8 +5,9 @@
     <classes>
       <class name="firsttestngproject.menutest">
         <methods>
+          <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="checkmenu1"/>
+          <include name="search"/>
         </methods>
       </class> <!-- firsttestngproject.menutest -->
     </classes>
