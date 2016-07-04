@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5289" started-at="2016-07-01T07:49:06Z" finished-at="2016-07-01T07:49:11Z">
+  <suite name="Default suite" duration-ms="3178" started-at="2016-07-04T05:14:27Z" finished-at="2016-07-04T05:14:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5289" started-at="2016-07-01T07:49:06Z" finished-at="2016-07-01T07:49:11Z">
-      <class name="firsttestngproject.UserAgent">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.UserAgent@cc285f4]" name="setUp" is-config="true" duration-ms="9831" started-at="2016-07-01T13:18:56Z" finished-at="2016-07-01T13:19:06Z">
+    <test name="Default test" duration-ms="3178" started-at="2016-07-04T05:14:27Z" finished-at="2016-07-04T05:14:30Z">
+      <class name="firsttestngproject.menutest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.menutest@cc285f4]" name="setUp" is-config="true" duration-ms="14632" started-at="2016-07-04T10:44:12Z" finished-at="2016-07-04T10:44:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="checkMenuBar()[pri:1, instance:firsttestngproject.UserAgent@cc285f4]" name="checkMenuBar" duration-ms="5270" started-at="2016-07-01T13:19:06Z" finished-at="2016-07-01T13:19:11Z">
+        <test-method status="PASS" signature="checkmenu1()[pri:1, instance:firsttestngproject.menutest@cc285f4]" name="checkmenu1" duration-ms="3116" started-at="2016-07-04T10:44:27Z" finished-at="2016-07-04T10:44:30Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkMenuBar -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.UserAgent@cc285f4]" name="tearDown" is-config="true" duration-ms="198" started-at="2016-07-01T13:19:11Z" finished-at="2016-07-01T13:19:12Z">
+        </test-method> <!-- checkmenu1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.menutest@cc285f4]" name="tearDown" is-config="true" duration-ms="160" started-at="2016-07-04T10:44:30Z" finished-at="2016-07-04T10:44:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- firsttestngproject.UserAgent -->
+      </class> <!-- firsttestngproject.menutest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -20,7 +20,7 @@ import org.testng.annotations.Test;
 public class phantom {	
 	public WebDriver driver;
 	 private String baseUrl;
-	 public String phantomloc = "/usr/local/share/phantomjs-2.1.1-linux-x86_64/bin/phantomjs";
+	 public String phantomloc = "/usr/local/bin/phantomjs";
 	 
 		@BeforeSuite
 		public void setUp(){

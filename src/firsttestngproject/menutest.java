@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
 public class menutest {	
 	public WebDriver driver;
 	 private String baseUrl;
-	 public String phantomloc = "/usr/local/share/phantomjs-2.1.1-linux-x86_64/bin/phantomjs";
+	 public String phantomloc = "/usr/local/bin/phantomjs";
 		@BeforeSuite
 		public void setUp(){
 			DesiredCapabilities caps = new DesiredCapabilities();
@@ -33,15 +33,28 @@ public class menutest {
 			 driver = new PhantomJSDriver(caps);
 			 baseUrl = "http://www.mytokri.com";
 			 driver.get(baseUrl);
+			 driver.manage().window().maximize();
 		}
 		
 		@Test(priority = 1)
 		public void checkmenu1() throws FileNotFoundException, UnsupportedEncodingException
 		{	
-			System.out.println("HEy");
+			String xpath1 = "//*[@id='mytokridata']/div/div[1]/div[1]/div[2]/div[1]/div/div[2]/a";
+			String xpath2 = "//*[@id='mytokridata']/div/div[1]/div[1]/div[2]/div[1]/div/div[3]/a";
+			
+			boolean isPresent = driver.findElements(By.xpath(xpath1)).size() > 0;
+			if(!isPresent)
+			{
+				driver.findElement(By.xpath(xpath2)).click();
+			}
+			else{
+				driver.findElement(By.xpath(xpath1)).click();
+			}
+			
+			
+			
+			System.out.println(driver.getTitle());
 		}
-		
-		
 		
 		@AfterSuite
 		 public void tearDown(){

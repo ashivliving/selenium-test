@@ -20,7 +20,7 @@ import org.testng.annotations.Test;
 public class test {	
 	public WebDriver driver;
 	 private String baseUrl;
-	 public String phantomloc = "/usr/local/share/phantomjs-2.1.1-linux-x86_64/bin/phantomjs";
+	 public String phantomloc = "/usr/local/bin/phantomjs";
 		@BeforeSuite
 		public void setUp(){
 			DesiredCapabilities caps = new DesiredCapabilities();
@@ -165,7 +165,7 @@ public class test {
 						else
 					out.println("There are "+ error + " errors in Menubar STORES!");
 
-					//=============> Category <=============
+	/*				//=============> Category <=============
 					String[] keyword_menucategory = {"mobile phone best deals","mobile accessories coupons",
 													 "cameras coupons","camera accessories coupons",
 													 "tablets coupons","tablets accessories coupons",
@@ -219,6 +219,7 @@ public class test {
 						out.println("No error in Menubar CATEGORIES");
 					else
 						out.println("There are "+ error + " errors in Menubar CATEGORIES!");			
+				*/
 				}
 			catch (IOException e) {
 				   

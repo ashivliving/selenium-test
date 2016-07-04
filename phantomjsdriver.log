@@ -4800,3 +4800,1024 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518
 [INFO  - 2016-07-01T07:48:57.960Z] Session [44788c20-3f60-11e6-8eff-6bd3c25429f4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
 [INFO  - 2016-07-01T07:48:57.960Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 44788c20-3f60-11e6-8eff-6bd3c25429f4
 [INFO  - 2016-07-01T07:49:12.160Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T08:12:54.926Z] GhostDriver - Main - running on port 13776
+[INFO  - 2016-07-01T08:12:55.161Z] Session [9d1bdd20-3f63-11e6-99df-559e33dda471] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T08:12:55.161Z] Session [9d1bdd20-3f63-11e6-99df-559e33dda471] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T08:12:55.161Z] Session [9d1bdd20-3f63-11e6-99df-559e33dda471] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T08:12:55.162Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9d1bdd20-3f63-11e6-99df-559e33dda471
+[INFO  - 2016-07-01T08:13:13.113Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T08:14:07.133Z] GhostDriver - Main - running on port 8184
+[INFO  - 2016-07-01T08:14:07.364Z] Session [c82578f0-3f63-11e6-b074-3f0d7b5e485a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T08:14:07.364Z] Session [c82578f0-3f63-11e6-b074-3f0d7b5e485a] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T08:14:07.364Z] Session [c82578f0-3f63-11e6-b074-3f0d7b5e485a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T08:14:07.364Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c82578f0-3f63-11e6-b074-3f0d7b5e485a
+[INFO  - 2016-07-01T08:14:24.563Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T08:46:44.802Z] GhostDriver - Main - running on port 10737
+[INFO  - 2016-07-01T08:46:45.048Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T08:46:45.048Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T08:46:45.049Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T08:46:45.049Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 57045830-3f68-11e6-a09a-f145a115f323
+[ERROR - 2016-07-01T08:47:05.323Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:05.323Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:07.065Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:07.065Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:23.075Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:23.075Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:29.115Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:29.116Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:32.422Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:32.422Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:36.603Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:36.604Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:42.483Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:42.483Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:46.985Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:47:46.985Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:47:52.654Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:47:52.655Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:47:56.864Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:47:56.864Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4846)
+[ERROR - 2016-07-01T08:48:04.629Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:04.629Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:48:08.250Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:08.251Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4538)
+[ERROR - 2016-07-01T08:48:16.547Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:16.547Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:48:23.591Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:23.591Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4530)
+[ERROR - 2016-07-01T08:48:28.102Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:28.102Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:48:38.949Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:38.949Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4354)
+[ERROR - 2016-07-01T08:48:44.575Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:44.575Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:48:52.337Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:52.337Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4198)
+[ERROR - 2016-07-01T08:48:57.611Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:48:57.612Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:49:03.836Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:49:03.837Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4578)
+[ERROR - 2016-07-01T08:49:08.025Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:49:08.026Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:49:12.922Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:49:12.923Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2446)
+[ERROR - 2016-07-01T08:49:16.579Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:49:16.579Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3057)
+[ERROR - 2016-07-01T08:49:23.873Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-01T08:49:23.873Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5236)
+[ERROR - 2016-07-01T08:50:03.453Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:50:03.454Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:50:12.239Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: ReferenceError: Can't find variable: ef_img
+[ERROR - 2016-07-01T08:50:12.240Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  global code (https://www.everestads.net/static/iframes/3652/79a1955be0d8edfd3e32e051537e449e_2.html#ev_rs=1&ev_cu=https%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa=l%26ai=C3r8vwC52V4TSGIPJoAOHzrrQAaLW4IpFvsXPzogBwI23ARABIABg5YKAgNQOggEXY2EtcHViLTU3NDIwMDIwMTQ3MTQ2MjigAZCKi-4DyAEJqAMBqgSTAU_Qq_dsDmtJnjM6hJVDpqLMVWqCYYlVqe6JhlseeMSFGFCxugFUFgCQwP9B4F9p2vxdVMZ_IksU4LD95-LOFV7zbAEG2EMLa4niiAJ6v10OEeKUAt5Am-e63csjE7IV0Bd5gO3eOpK7vfQ3q9e9NR4zeQ05BKMXkrmc7zAs22xO6xdI7F-cWip_j6F5JOyyTpInv4AGzPfQo_Obgqf1AaAGIagHpr4b2AcA%26num=1%26sig=AOD64_0NMmXmZPJqlWSl6ubiDMiMZQZrzQ%26client=ca-pub-5742002014714628%26adurl=&ev_cb=689904809&ev_ii=V3YuwAAABc4gQXrt&ev_w=728&ev_h=90&ev_surferid=V3YuwAAABc4gQXrt&ev_time=20160701085010&ev_cri=1000479741:13)
+[ERROR - 2016-07-01T08:50:21.558Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:50:21.558Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:50:21.568Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:50:21.569Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:51:34.245Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:51:34.245Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:51:42.860Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:51:42.860Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-01T08:51:44.801Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-01T08:52:34.262Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:52:34.263Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:52:49.803Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:52:49.803Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:54:21.851Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:54:21.851Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:54:49.782Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:54:49.782Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:54:51.844Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:54:51.845Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T08:54:54.705Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T08:54:54.705Z] Session [57045830-3f68-11e6-a09a-f145a115f323] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-01T10:01:31.654Z] GhostDriver - Main - running on port 2102
+[INFO  - 2016-07-01T10:01:32.165Z] Session [c98c1000-3f72-11e6-8bdb-ad42cf02290c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:01:32.165Z] Session [c98c1000-3f72-11e6-8bdb-ad42cf02290c] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:01:32.166Z] Session [c98c1000-3f72-11e6-8bdb-ad42cf02290c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:01:32.166Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c98c1000-3f72-11e6-8bdb-ad42cf02290c
+[INFO  - 2016-07-01T10:01:53.504Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T10:02:57.168Z] GhostDriver - Main - running on port 5495
+[INFO  - 2016-07-01T10:02:57.375Z] Session [fc5613a0-3f72-11e6-ace4-1fbc98cbd30e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:02:57.375Z] Session [fc5613a0-3f72-11e6-ace4-1fbc98cbd30e] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:02:57.376Z] Session [fc5613a0-3f72-11e6-ace4-1fbc98cbd30e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:02:57.376Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fc5613a0-3f72-11e6-ace4-1fbc98cbd30e
+[INFO  - 2016-07-01T10:03:32.137Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T10:12:19.380Z] GhostDriver - Main - running on port 16678
+[INFO  - 2016-07-01T10:12:19.582Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:12:19.582Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:12:19.582Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:12:19.583Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4b6fe780-3f74-11e6-915f-f11d0562b07e
+[ERROR - 2016-07-01T10:12:38.268Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:12:38.268Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T10:12:40.213Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:12:40.213Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T10:12:45.274Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:12:45.274Z] Session [4b6fe780-3f74-11e6-915f-f11d0562b07e] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-01T10:17:19.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:22:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:25:12.356Z] GhostDriver - Main - running on port 5981
+[INFO  - 2016-07-01T10:25:12.637Z] Session [1835d210-3f76-11e6-b5fa-3fe1d20db951] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:25:12.637Z] Session [1835d210-3f76-11e6-b5fa-3fe1d20db951] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:25:12.638Z] Session [1835d210-3f76-11e6-b5fa-3fe1d20db951] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:25:12.638Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1835d210-3f76-11e6-b5fa-3fe1d20db951
+[INFO  - 2016-07-01T10:25:28.988Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T10:26:36.836Z] GhostDriver - Main - running on port 26157
+[INFO  - 2016-07-01T10:26:37.293Z] Session [4aab7420-3f76-11e6-90a2-156a077a0e19] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:26:37.294Z] Session [4aab7420-3f76-11e6-90a2-156a077a0e19] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:26:37.294Z] Session [4aab7420-3f76-11e6-90a2-156a077a0e19] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:26:37.295Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4aab7420-3f76-11e6-90a2-156a077a0e19
+[INFO  - 2016-07-01T10:27:13.944Z] GhostDriver - Main - running on port 17535
+[INFO  - 2016-07-01T10:27:14.158Z] Session [60a51060-3f76-11e6-ba0e-03532bdef288] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:27:14.158Z] Session [60a51060-3f76-11e6-ba0e-03532bdef288] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:27:14.158Z] Session [60a51060-3f76-11e6-ba0e-03532bdef288] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:27:14.158Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 60a51060-3f76-11e6-ba0e-03532bdef288
+[INFO  - 2016-07-01T10:27:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:27:31.040Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T10:27:37.193Z] GhostDriver - Main - running on port 16477
+[INFO  - 2016-07-01T10:27:37.453Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:27:37.453Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:27:37.455Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:27:37.455Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6e874b30-3f76-11e6-a088-774da8829105
+[ERROR - 2016-07-01T10:31:05.503Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:31:05.503Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-01T10:31:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-01T10:31:45.623Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:31:45.623Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T10:31:49.403Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:31:49.403Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T10:31:52.738Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:31:52.738Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-01T10:31:58.422Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:31:58.423Z] Session [6e874b30-3f76-11e6-a088-774da8829105] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-01T10:31:58.813Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T10:32:18.068Z] GhostDriver - Main - running on port 3257
+[INFO  - 2016-07-01T10:32:18.287Z] Session [15ebc590-3f77-11e6-8fb4-310a22dd53d7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:32:18.287Z] Session [15ebc590-3f77-11e6-8fb4-310a22dd53d7] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:32:18.288Z] Session [15ebc590-3f77-11e6-8fb4-310a22dd53d7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:32:18.288Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 15ebc590-3f77-11e6-8fb4-310a22dd53d7
+[INFO  - 2016-07-01T10:32:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:34:21.243Z] GhostDriver - Main - running on port 32254
+[INFO  - 2016-07-01T10:34:21.651Z] Session [5f7351b0-3f77-11e6-be34-858c1b1d26f1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T10:34:21.652Z] Session [5f7351b0-3f77-11e6-be34-858c1b1d26f1] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T10:34:21.652Z] Session [5f7351b0-3f77-11e6-be34-858c1b1d26f1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T10:34:21.653Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5f7351b0-3f77-11e6-be34-858c1b1d26f1
+[INFO  - 2016-07-01T10:36:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:37:18.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:37:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-01T10:37:26.498Z] Session [5f7351b0-3f77-11e6-be34-858c1b1d26f1] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-01T10:37:26.498Z] Session [5f7351b0-3f77-11e6-be34-858c1b1d26f1] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-01T10:39:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:41:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:42:18.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:42:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:44:21.241Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:46:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:47:18.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:47:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:49:21.241Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:51:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:52:18.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:52:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:54:21.241Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:56:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:57:18.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:57:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T10:59:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:01:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:02:18.070Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:02:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:04:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:06:36.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:07:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:07:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:08:42.160Z] GhostDriver - Main - running on port 31341
+[INFO  - 2016-07-01T11:08:42.361Z] Session [2bbb2b40-3f7c-11e6-af14-e3acc74c1557] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T11:08:42.361Z] Session [2bbb2b40-3f7c-11e6-af14-e3acc74c1557] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T11:08:42.362Z] Session [2bbb2b40-3f7c-11e6-af14-e3acc74c1557] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T11:08:42.362Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2bbb2b40-3f7c-11e6-af14-e3acc74c1557
+[INFO  - 2016-07-01T11:09:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:11:36.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:12:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:12:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:13:42.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:14:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:16:36.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:17:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:17:19.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:18:42.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:19:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:21:36.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:22:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:22:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:23:42.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:24:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:26:36.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:27:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:27:19.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:28:42.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:29:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:31:36.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:32:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:32:19.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:33:42.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:34:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:36:36.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:37:18.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:37:19.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-01T11:38:05.757Z] GhostDriver - Main - running on port 11452
+[INFO  - 2016-07-01T11:38:06.211Z] Session [4710b5a0-3f80-11e6-8e9b-537ac58ef75b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T11:38:06.212Z] Session [4710b5a0-3f80-11e6-8e9b-537ac58ef75b] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T11:38:06.213Z] Session [4710b5a0-3f80-11e6-8e9b-537ac58ef75b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T11:38:06.213Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4710b5a0-3f80-11e6-8e9b-537ac58ef75b
+[INFO  - 2016-07-01T11:38:20.408Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T11:38:42.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+                                                                                                                                          [INFO  - 2016-07-01T11:51:34.391Z] GhostDriver - Main - running on port 20899
+[INFO  - 2016-07-01T11:51:34.791Z] Session [2904d620-3f82-11e6-aecf-85c58a0eea0d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T11:51:34.791Z] Session [2904d620-3f82-11e6-aecf-85c58a0eea0d] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T11:51:34.791Z] Session [2904d620-3f82-11e6-aecf-85c58a0eea0d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T11:51:34.791Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2904d620-3f82-11e6-aecf-85c58a0eea0d
+[INFO  - 2016-07-01T11:51:51.794Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T11:52:45.472Z] GhostDriver - Main - running on port 29104
+[INFO  - 2016-07-01T11:52:45.786Z] Session [5355f760-3f82-11e6-ba98-e1c3575a73c2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T11:52:45.787Z] Session [5355f760-3f82-11e6-ba98-e1c3575a73c2] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T11:52:45.787Z] Session [5355f760-3f82-11e6-ba98-e1c3575a73c2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T11:52:45.787Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5355f760-3f82-11e6-ba98-e1c3575a73c2
+[INFO  - 2016-07-01T11:52:51.449Z] GhostDriver - Main - running on port 20023
+[INFO  - 2016-07-01T11:52:51.723Z] Session [56df4530-3f82-11e6-952d-4b167234a4bd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T11:52:51.723Z] Session [56df4530-3f82-11e6-952d-4b167234a4bd] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T11:52:51.723Z] Session [56df4530-3f82-11e6-952d-4b167234a4bd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T11:52:51.723Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 56df4530-3f82-11e6-952d-4b167234a4bd
+[INFO  - 2016-07-01T11:53:12.454Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T11:53:19.594Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-01T11:53:34.028Z] GhostDriver - Main - running on port 14572
+[INFO  - 2016-07-01T11:53:34.227Z] Session [703552e0-3f82-11e6-8768-aff59d52381f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-01T11:53:34.227Z] Session [703552e0-3f82-11e6-8768-aff59d52381f] - page.customHeaders:  - {}
+[INFO  - 2016-07-01T11:53:34.227Z] Session [703552e0-3f82-11e6-8768-aff59d52381f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-01T11:53:34.227Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 703552e0-3f82-11e6-8768-aff59d52381f
+[INFO  - 2016-07-01T11:53:54.434Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T06:02:22.139Z] GhostDriver - Main - running on port 3719
+[INFO  - 2016-07-02T06:02:22.648Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T06:02:22.649Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T06:02:22.650Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T06:02:22.651Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6
+[ERROR - 2016-07-02T06:03:58.812Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:03:58.812Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:04:26.424Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:04:26.424Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:04:29.127Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:04:29.127Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:04:31.844Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:04:31.845Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:04:36.833Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:04:36.834Z] Session [8af9e8a0-401a-11e6-8f9b-ad7bc3c347f6] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-02T06:04:37.572Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T06:10:40.222Z] GhostDriver - Main - running on port 14641
+[INFO  - 2016-07-02T06:10:40.482Z] Session [b3b6dfe0-401b-11e6-a599-07b04dfbb7ea] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T06:10:40.483Z] Session [b3b6dfe0-401b-11e6-a599-07b04dfbb7ea] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T06:10:40.483Z] Session [b3b6dfe0-401b-11e6-a599-07b04dfbb7ea] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T06:10:40.484Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b3b6dfe0-401b-11e6-a599-07b04dfbb7ea
+[INFO  - 2016-07-02T06:10:52.209Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T06:18:01.706Z] GhostDriver - Main - running on port 11988
+[INFO  - 2016-07-02T06:18:02.061Z] Session [bae9b840-401c-11e6-a47a-8f084763854d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T06:18:02.061Z] Session [bae9b840-401c-11e6-a47a-8f084763854d] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T06:18:02.062Z] Session [bae9b840-401c-11e6-a47a-8f084763854d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T06:18:02.062Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bae9b840-401c-11e6-a47a-8f084763854d
+[INFO  - 2016-07-02T06:18:12.874Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T06:20:12.061Z] GhostDriver - Main - running on port 32282
+[INFO  - 2016-07-02T06:20:12.264Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T06:20:12.264Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T06:20:12.264Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T06:20:12.264Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 08856d10-401d-11e6-87f0-73866c3ff0c1
+[ERROR - 2016-07-02T06:23:36.922Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:23:36.923Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:24:12.139Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:24:12.140Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:24:15.491Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:24:15.491Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:24:19.540Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:24:19.540Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:24:23.928Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:24:23.929Z] Session [08856d10-401d-11e6-87f0-73866c3ff0c1] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-02T06:24:24.445Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T06:46:33.043Z] GhostDriver - Main - running on port 32443
+[INFO  - 2016-07-02T06:46:33.301Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T06:46:33.301Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T06:46:33.301Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T06:46:33.301Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b6e486e0-4020-11e6-be0f-7f868403aae9
+[ERROR - 2016-07-02T06:49:27.897Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:49:27.897Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:50:14.288Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:50:14.288Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:50:19.922Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:50:19.922Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:50:24.904Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:50:24.904Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[ERROR - 2016-07-02T06:50:30.202Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7157:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:2172:78
+u8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4142:81
+Y8@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:4229:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:7147:552
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:484:318
+Th@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:482:249
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:475:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518:422
+[ERROR - 2016-07-02T06:50:30.202Z] Session [b6e486e0-4020-11e6-be0f-7f868403aae9] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflAbrXV8/base.js:3893)
+  (anonymous function) (:0)
+[INFO  - 2016-07-02T06:50:31.067Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T11:51:45.453Z] GhostDriver - Main - running on port 24365
+[INFO  - 2016-07-02T11:51:46.239Z] Session [5a411b80-404b-11e6-b2cd-59407a176a13] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T11:51:46.240Z] Session [5a411b80-404b-11e6-b2cd-59407a176a13] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T11:51:46.240Z] Session [5a411b80-404b-11e6-b2cd-59407a176a13] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T11:51:46.240Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5a411b80-404b-11e6-b2cd-59407a176a13
+[INFO  - 2016-07-02T11:51:58.953Z] GhostDriver - Main - running on port 27531
+[INFO  - 2016-07-02T11:51:59.466Z] Session [62236330-404b-11e6-a8a4-cde90bd1c488] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T11:51:59.467Z] Session [62236330-404b-11e6-a8a4-cde90bd1c488] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T11:51:59.469Z] Session [62236330-404b-11e6-a8a4-cde90bd1c488] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T11:51:59.469Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 62236330-404b-11e6-a8a4-cde90bd1c488
+[INFO  - 2016-07-02T11:52:06.977Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T11:52:14.480Z] GhostDriver - Main - running on port 11959
+[INFO  - 2016-07-02T11:52:14.897Z] Session [6b55d190-404b-11e6-ba70-ff354e3e80b0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T11:52:14.897Z] Session [6b55d190-404b-11e6-ba70-ff354e3e80b0] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T11:52:14.898Z] Session [6b55d190-404b-11e6-ba70-ff354e3e80b0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T11:52:14.898Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6b55d190-404b-11e6-ba70-ff354e3e80b0
+[INFO  - 2016-07-02T11:52:28.906Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T11:52:38.516Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:03:10.630Z] GhostDriver - Main - running on port 17800
+[INFO  - 2016-07-02T12:03:11.368Z] Session [f29ebbc0-404c-11e6-b288-e338ee0ce5d0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:03:11.369Z] Session [f29ebbc0-404c-11e6-b288-e338ee0ce5d0] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:03:11.370Z] Session [f29ebbc0-404c-11e6-b288-e338ee0ce5d0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:03:11.370Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f29ebbc0-404c-11e6-b288-e338ee0ce5d0
+[INFO  - 2016-07-02T12:03:47.012Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:19:01.800Z] GhostDriver - Main - running on port 18477
+[INFO  - 2016-07-02T12:19:02.115Z] Session [294faba0-404f-11e6-a1f8-9df2a605831b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:19:02.116Z] Session [294faba0-404f-11e6-a1f8-9df2a605831b] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:19:02.116Z] Session [294faba0-404f-11e6-a1f8-9df2a605831b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:19:02.116Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 294faba0-404f-11e6-a1f8-9df2a605831b
+[INFO  - 2016-07-02T12:19:21.088Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:25:30.762Z] GhostDriver - Main - running on port 14089
+[INFO  - 2016-07-02T12:25:31.705Z] Session [11859fb0-4050-11e6-93cc-f178b0d95abe] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:25:31.705Z] Session [11859fb0-4050-11e6-93cc-f178b0d95abe] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:25:31.706Z] Session [11859fb0-4050-11e6-93cc-f178b0d95abe] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:25:31.707Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 11859fb0-4050-11e6-93cc-f178b0d95abe
+[INFO  - 2016-07-02T12:26:26.537Z] GhostDriver - Main - running on port 20632
+[INFO  - 2016-07-02T12:26:27.102Z] Session [328a8900-4050-11e6-a70f-3d6d00a7e526] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:26:27.102Z] Session [328a8900-4050-11e6-a70f-3d6d00a7e526] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:26:27.103Z] Session [328a8900-4050-11e6-a70f-3d6d00a7e526] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:26:27.103Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 328a8900-4050-11e6-a70f-3d6d00a7e526
+[INFO  - 2016-07-02T12:27:47.221Z] GhostDriver - Main - running on port 3873
+[INFO  - 2016-07-02T12:27:48.021Z] Session [62c46be0-4050-11e6-8988-2be72783b293] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:27:48.022Z] Session [62c46be0-4050-11e6-8988-2be72783b293] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:27:48.023Z] Session [62c46be0-4050-11e6-8988-2be72783b293] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:27:48.024Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 62c46be0-4050-11e6-8988-2be72783b293
+[INFO  - 2016-07-02T12:28:24.419Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:29:29.382Z] GhostDriver - Main - running on port 29532
+[INFO  - 2016-07-02T12:29:30.065Z] Session [9f980400-4050-11e6-b5f7-f92cf3208c41] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:29:30.066Z] Session [9f980400-4050-11e6-b5f7-f92cf3208c41] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:29:30.067Z] Session [9f980400-4050-11e6-b5f7-f92cf3208c41] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:29:30.068Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9f980400-4050-11e6-b5f7-f92cf3208c41
+[ERROR - 2016-07-02T12:29:41.581Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467462581544
+[INFO  - 2016-07-02T12:29:44.711Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:30:30.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:31:26.535Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:35:30.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:36:26.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:40:30.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:41:26.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:44:23.312Z] GhostDriver - Main - running on port 8797
+[INFO  - 2016-07-02T12:44:24.023Z] Session [b46ff1b0-4052-11e6-be9f-29111d7ca240] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:44:24.024Z] Session [b46ff1b0-4052-11e6-be9f-29111d7ca240] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:44:24.024Z] Session [b46ff1b0-4052-11e6-be9f-29111d7ca240] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:44:24.024Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b46ff1b0-4052-11e6-be9f-29111d7ca240
+[INFO  - 2016-07-02T12:45:00.185Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:45:27.257Z] GhostDriver - Main - running on port 13663
+[INFO  - 2016-07-02T12:45:28.162Z] Session [daaac760-4052-11e6-949d-25e572d5f428] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-02T12:45:28.163Z] Session [daaac760-4052-11e6-949d-25e572d5f428] - page.customHeaders:  - {}
+[INFO  - 2016-07-02T12:45:28.163Z] Session [daaac760-4052-11e6-949d-25e572d5f428] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-02T12:45:28.164Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: daaac760-4052-11e6-949d-25e572d5f428
+[INFO  - 2016-07-02T12:45:30.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-02T12:46:04.237Z] Session [daaac760-4052-11e6-949d-25e572d5f428] - page.onError - msg: undefined
+[ERROR - 2016-07-02T12:46:04.256Z] Session [daaac760-4052-11e6-949d-25e572d5f428] - page.onError - stack:
+  (anonymous function) (https://tpc.googlesyndication.com/pagead/js/r20160628/r20110914/abg.js:32)
+[INFO  - 2016-07-02T12:46:05.822Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-02T12:46:26.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:50:30.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-02T12:51:26.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:12:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:13:54.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:17:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:18:54.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:22:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:23:54.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:27:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:28:54.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:32:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:33:54.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:37:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:38:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:42:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:43:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:47:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:48:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:52:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:53:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:57:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T06:58:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T07:02:58.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T07:03:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T07:07:58.420Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T07:08:54.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T07:12:58.417Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:03:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:07:09.929Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:08:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:12:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:13:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:17:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:18:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:22:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:23:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:27:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:28:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:32:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:33:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:37:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:38:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:42:09.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:43:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:44:50.273Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-03T09:48:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:53:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T09:58:05.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T10:36:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T10:41:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T10:46:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T10:51:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T10:56:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T11:01:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T11:06:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T11:11:25.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T12:14:37.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-03T12:19:36.900Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:08:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:13:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:18:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:23:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:28:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:33:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:38:13.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:40:57.643Z] GhostDriver - Main - running on port 7437
+[INFO  - 2016-07-04T04:40:58.174Z] Session [806f3290-41a1-11e6-b464-e1ddac330f31] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-04T04:40:58.174Z] Session [806f3290-41a1-11e6-b464-e1ddac330f31] - page.customHeaders:  - {}
+[INFO  - 2016-07-04T04:40:58.174Z] Session [806f3290-41a1-11e6-b464-e1ddac330f31] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-04T04:40:58.175Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 806f3290-41a1-11e6-b464-e1ddac330f31
+[INFO  - 2016-07-04T04:41:08.644Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-04T04:42:47.103Z] GhostDriver - Main - running on port 3438
+[INFO  - 2016-07-04T04:42:47.570Z] Session [c1a33ea0-41a1-11e6-8808-cdb3f09b5000] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-04T04:42:47.571Z] Session [c1a33ea0-41a1-11e6-8808-cdb3f09b5000] - page.customHeaders:  - {}
+[INFO  - 2016-07-04T04:42:47.575Z] Session [c1a33ea0-41a1-11e6-8808-cdb3f09b5000] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-04T04:42:47.575Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c1a33ea0-41a1-11e6-8808-cdb3f09b5000
+[INFO  - 2016-07-04T04:43:00.425Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-04T04:43:13.562Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:48:13.562Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:53:13.562Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T04:58:13.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T05:03:13.562Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T05:08:13.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T05:13:13.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-04T05:13:24.251Z] GhostDriver - Main - running on port 9375
+[INFO  - 2016-07-04T05:13:24.692Z] Session [08a5a9b0-41a6-11e6-ab26-9da704a45865] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-04T05:13:24.693Z] Session [08a5a9b0-41a6-11e6-ab26-9da704a45865] - page.customHeaders:  - {}
+[INFO  - 2016-07-04T05:13:24.694Z] Session [08a5a9b0-41a6-11e6-ab26-9da704a45865] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-04T05:13:24.694Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 08a5a9b0-41a6-11e6-ab26-9da704a45865
+[INFO  - 2016-07-04T05:13:33.496Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-04T05:14:14.807Z] GhostDriver - Main - running on port 6344
+[INFO  - 2016-07-04T05:14:15.578Z] Session [26f81d30-41a6-11e6-8e3e-4121e67aa326] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-04T05:14:15.579Z] Session [26f81d30-41a6-11e6-8e3e-4121e67aa326] - page.customHeaders:  - {}
+[INFO  - 2016-07-04T05:14:15.579Z] Session [26f81d30-41a6-11e6-8e3e-4121e67aa326] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-04T05:14:15.579Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 26f81d30-41a6-11e6-8e3e-4121e67aa326
+[INFO  - 2016-07-04T05:14:30.486Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-04T05:18:13.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
