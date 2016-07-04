@@ -39,21 +39,22 @@ public class menutest {
 		
 		@Test(priority = 1)
 		public void search() throws FileNotFoundException, UnsupportedEncodingException
-		{	try(FileWriter fw = new FileWriter("result.txt", true);
+		{	
+			
+			try(FileWriter fw = new FileWriter("result.txt", true);
 			    BufferedWriter bw = new BufferedWriter(fw);
 			    PrintWriter out = new PrintWriter(bw))
 			{
-			
-			String str1,str2,data;
-			boolean available=true;
-			int correct=0,i=0,j=0;
-			double sum=0,avg;
-			String keyword;
-			String[] keydata = {"Amazon","book","selfie","myntra","paytm","laptop",
-								"mobile","pendrive","free","shoe","bag","recharge",
-								"food","buffet","pizza","ticket","room"};
-			int len = keydata.length;
-	    	while(j<len)
+				String str1,str2,data;
+				boolean available=true;
+				int correct=0,i=0,j=0;
+				double avg=0,sum=0;
+				String keyword;
+				String[] keydata = {"Amazon","book","selfie","myntra","paytm","laptop",
+									"mobile","pendrive","free","shoe","bag","recharge",
+									"food","buffet","pizza","ticket","room"};
+				
+			while(j<keydata.length)
 	    	{ keyword = keydata[j++];
 		    while(available)
 		    {	driver.findElement(By.id("livesearch")).clear();
@@ -103,14 +104,14 @@ public class menutest {
 		    		
 		    }
 		    //System.out.println("Correct "+keyword+" - "+correct+"/"+i+"");
-		    sum = sum + (double)(correct*100/i);
+		    sum = sum+ (double)(correct*100/i);
+		    avg = sum/keydata.length;
+		    
 		}
-	    	avg = sum/len;
-	    	System.out.println(avg);
+	    	out.println("Search Efficiency is - "+avg+"%.");
 			}catch(IOException e){
 				
 			}
-			
 		}
 		
 		/*
