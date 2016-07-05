@@ -49,13 +49,6 @@ public class temp {
 			String sidexpath,str1,str2;
 			for(int i=1;i<=5;i++)
 			{	
-				 File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-			     try{
-			     FileUtils.copyFile(scrFile, new File("/var/lib/jenkins/workspace/image.jpg"),true);
-			    	System.out.println("Login Successful!");
-			     }  catch(Exception e){
-			    	System.out.println("Can't capture screenshot!");
-			    }
 				try{
 					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
 					str1 = driver.findElement(By.xpath(sidexpath)).getText();
@@ -70,16 +63,16 @@ public class temp {
 				if(!(str2.toLowerCase().contains(str1.toLowerCase())))
 				{
 					error++;
-					out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
+					System.out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
 				}
 				
 				
 				driver.navigate().to(baseUrl);
 			}
 			if(error==0)
-				out.println("No error in Sidebar Popular Deals");
+				System.out.println("No error in Sidebar Popular Deals");
 			else
-				out.println("There are "+ error + " errors in Sidebar Popular Deals!");
+				System.out.println("There are "+ error + " errors in Sidebar Popular Deals!");
 				}catch(IOException e){
 					
 				}
