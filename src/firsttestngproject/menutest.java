@@ -155,7 +155,6 @@ public class menutest {
 					
 				}
 		}
-		}
 		
 		/*
 		@Test(priority = 2)
