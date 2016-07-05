@@ -6678,3 +6678,10 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518
 [INFO  - 2016-07-05T10:20:00.775Z] Session [07fb8620-429a-11e6-9e65-7fbb69a5f5c9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
 [INFO  - 2016-07-05T10:20:00.775Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 07fb8620-429a-11e6-9e65-7fbb69a5f5c9
 [INFO  - 2016-07-05T10:21:10.433Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-05T10:24:05.581Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-05T10:29:06.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-05T10:34:06.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-05T10:39:06.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-05T10:44:06.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-05T10:49:06.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-05T10:54:06.211Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

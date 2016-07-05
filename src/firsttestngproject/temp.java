@@ -38,45 +38,43 @@ public class temp {
 		}
 		
 		@Test(priority = 2)
-		public void sidebar_popular() throws FileNotFoundException, UnsupportedEncodingException
-		{	
-			try(FileWriter fw = new FileWriter("result.txt", true);
-				    BufferedWriter bw = new BufferedWriter(fw);
-				    PrintWriter out = new PrintWriter(bw))
-				{
-			
-			int error = 0; 
-			String sidexpath,str1,str2;
-			for(int i=1;i<=5;i++)
-			{	
-				try{
-					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
-					str1 = driver.findElement(By.xpath(sidexpath)).getText();
-				}
-				catch(NoSuchElementException e){
-					sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
-					str1 = driver.findElement(By.xpath(sidexpath)).getText();
-				}
-				driver.findElement(By.xpath(sidexpath)).click();
-				str2 = driver.getTitle();
-				
-				if(!(str2.toLowerCase().contains(str1.toLowerCase())))
-				{
-					error++;
-					System.out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
-				}
-				
-				
-				driver.navigate().to(baseUrl);
-			}
-			if(error==0)
-				System.out.println("No error in Sidebar Popular Deals");
-			else
-				System.out.println("There are "+ error + " errors in Sidebar Popular Deals!");
-				}catch(IOException e){
-					
-				}
-		}
+        public void sidebar_popular() throws FileNotFoundException, UnsupportedEncodingException
+        {
+                try(FileWriter fw = new FileWriter("result.txt", true);
+                            BufferedWriter bw = new BufferedWriter(fw);
+                            PrintWriter out = new PrintWriter(bw))
+                        {
+
+                int error = 0;
+                String sidexpath,str1,str2;
+                for(int i=1;i<=1;i++)
+                {
+                        try{
+                                sidexpath = "//*[@id='sidebar']/div[8]/table/tbody/tr["+i+"]/td[1]/a";
+                                str1 = driver.findElement(By.xpath(sidexpath)).getText();
+                        }
+                        catch(NoSuchElementException e){
+                                sidexpath = "//*[@id='sidebar']/div[9]/table/tbody/tr["+i+"]/td[1]/a";
+                                str1 = driver.findElement(By.xpath(sidexpath)).getText();
+                        }
+                        if(str1.length()<=0)
+                        {
+                                error++;
+                                out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
+                        }
+
+
+                        driver.navigate().to(baseUrl);
+                }
+                if(error==0)
+                        out.println("No error in Sidebar Popular Deals");
+                else
+                        out.println("There are "+ error + " errors in Sidebar Popular Deals!");
+                        }catch(IOException e){
+
+                        }
+        }
+
 		
 		@AfterSuite
 		 public void tearDown(){
