@@ -49,6 +49,13 @@ public class temp {
 			String sidexpath,str1,str2;
 			for(int i=1;i<=5;i++)
 			{	
+				 File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			     try{
+			     FileUtils.copyFile(scrFile, new File("/var/lib/jenkins/workspace/image.jpg"),true);
+			    	System.out.println("Login Successful!");
+			     }  catch(Exception e){
+			    	System.out.println("Can't capture screenshot!");
+			    }
 				try{
 					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
 					str1 = driver.findElement(By.xpath(sidexpath)).getText();
