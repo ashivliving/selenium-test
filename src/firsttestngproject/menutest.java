@@ -122,19 +122,28 @@ public class menutest {
 				    BufferedWriter bw = new BufferedWriter(fw);
 				    PrintWriter out = new PrintWriter(bw))
 				{
+			
 			int error = 0; 
+			String sidexpath,str1,str2;
 			for(int i=1;i<=5;i++)
 			{	
-				String sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
-				String str1 = driver.findElement(By.xpath(sidexpath)).getText();
+				try{
+					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
+					str1 = driver.findElement(By.xpath(sidexpath)).getText();
+				}
+				catch(NoSuchElementException e){
+					sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
+					str1 = driver.findElement(By.xpath(sidexpath)).getText();
+				}
 				driver.findElement(By.xpath(sidexpath)).click();
-				String str2 = driver.getTitle();
+				str2 = driver.getTitle();
 				
 				if(!(str2.toLowerCase().contains(str1.toLowerCase())))
 				{
 					error++;
 					out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
 				}
+				
 				
 				driver.navigate().to(baseUrl);
 			}
@@ -145,6 +154,7 @@ public class menutest {
 				}catch(IOException e){
 					
 				}
+		}
 		}
 		
 		/*
