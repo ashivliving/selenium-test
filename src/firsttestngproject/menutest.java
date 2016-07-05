@@ -82,7 +82,14 @@ public class menutest {
 		    			driver.findElement(By.xpath(search_xpath1)).click();
 		    		}
 		    		catch(NoSuchElementException e){
-		    			driver.findElement(By.xpath(search_xpath2)).click();
+		    			try{
+		    				driver.findElement(By.xpath(search_xpath2)).click();
+		    			}
+		    			catch(NoSuchElementException ef){
+		    				available = false;
+		    				continue;
+		    			}
+		    			
 		    		}
 		    			try{
 		    				 data = driver.findElement(By.xpath("//*[@id='messageList']")).getText();
