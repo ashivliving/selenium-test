@@ -118,6 +118,8 @@ public class menutest {
 		@Test(priority = 2)
 		public void sidebar_popular() throws FileNotFoundException, UnsupportedEncodingException
 		{	
+			driver.navigate().back();
+
 			try(FileWriter fw = new FileWriter("result.txt", true);
 				    BufferedWriter bw = new BufferedWriter(fw);
 				    PrintWriter out = new PrintWriter(bw))
@@ -128,11 +130,11 @@ public class menutest {
 			for(int i=1;i<=5;i++)
 			{	
 				try{
-					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
+					sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
 					str1 = driver.findElement(By.xpath(sidexpath)).getText();
 				}
 				catch(NoSuchElementException e){
-					sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
+					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
 					str1 = driver.findElement(By.xpath(sidexpath)).getText();
 				}
 				driver.findElement(By.xpath(sidexpath)).click();

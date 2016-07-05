@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="52613" started-at="2016-07-05T05:41:44Z" finished-at="2016-07-05T05:42:37Z">
+  <suite name="Default suite" duration-ms="136119" started-at="2016-07-05T06:04:48Z" finished-at="2016-07-05T06:07:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="52613" started-at="2016-07-05T05:41:44Z" finished-at="2016-07-05T05:42:37Z">
-      <class name="firsttestngproject.temp">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.temp@2b98378d]" name="setUp" is-config="true" duration-ms="83247" started-at="2016-07-05T11:10:21Z" finished-at="2016-07-05T11:11:44Z">
+    <test name="Default test" duration-ms="136119" started-at="2016-07-05T06:04:48Z" finished-at="2016-07-05T06:07:05Z">
+      <class name="firsttestngproject.menutest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.menutest@2b98378d]" name="setUp" is-config="true" duration-ms="13209" started-at="2016-07-05T11:34:35Z" finished-at="2016-07-05T11:34:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="sidebar_popular()[pri:2, instance:firsttestngproject.temp@2b98378d]" name="sidebar_popular" duration-ms="52539" started-at="2016-07-05T11:11:44Z" finished-at="2016-07-05T11:12:37Z">
+        <test-method status="PASS" signature="search()[pri:1, instance:firsttestngproject.menutest@2b98378d]" name="search" duration-ms="70525" started-at="2016-07-05T11:34:49Z" finished-at="2016-07-05T11:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="sidebar_popular()[pri:2, instance:firsttestngproject.menutest@2b98378d]" name="sidebar_popular" duration-ms="65517" started-at="2016-07-05T11:35:59Z" finished-at="2016-07-05T11:37:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sidebar_popular -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.temp@2b98378d]" name="tearDown" is-config="true" duration-ms="136" started-at="2016-07-05T11:12:37Z" finished-at="2016-07-05T11:12:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.menutest@2b98378d]" name="tearDown" is-config="true" duration-ms="183" started-at="2016-07-05T11:37:05Z" finished-at="2016-07-05T11:37:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- firsttestngproject.temp -->
+      </class> <!-- firsttestngproject.menutest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
