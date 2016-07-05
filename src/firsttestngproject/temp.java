@@ -10,6 +10,7 @@ import java.io.UnsupportedEncodingException;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -36,13 +37,47 @@ public class temp {
 			 driver.manage().window().maximize();
 		}
 		
-		@Test(priority = 1)
-		public void search() throws FileNotFoundException, UnsupportedEncodingException
+		@Test(priority = 2)
+		public void sidebar_popular() throws FileNotFoundException, UnsupportedEncodingException
 		{	
-			driver.get("http://www.mytokri.com/current-affairs-2016-for-competitive-exams-rs-49-%E2%80%93-amazon.76877/");
-			String str1 = driver.findElement(By.xpath("//*[@id='messageList']")).getText(); 
-			System.out.println(str1);
+			try(FileWriter fw = new FileWriter("result.txt", true);
+				    BufferedWriter bw = new BufferedWriter(fw);
+				    PrintWriter out = new PrintWriter(bw))
+				{
+			
+			int error = 0; 
+			String sidexpath,str1,str2;
+			for(int i=1;i<=5;i++)
+			{	
+				try{
+					sidexpath = "//*[@id='sidebar']/div[4]/table/tbody/tr["+i+"]/td[1]/a";
+					str1 = driver.findElement(By.xpath(sidexpath)).getText();
+				}
+				catch(NoSuchElementException e){
+					sidexpath = "//*[@id='sidebar']/div[5]/table/tbody/tr["+i+"]/td[1]/a";
+					str1 = driver.findElement(By.xpath(sidexpath)).getText();
+				}
+				driver.findElement(By.xpath(sidexpath)).click();
+				str2 = driver.getTitle();
+				
+				if(!(str2.toLowerCase().contains(str1.toLowerCase())))
+				{
+					error++;
+					out.println("Error in Sidebar Popular Deals at "+ str1 +" Link.");
+				}
+				
+				
+				driver.navigate().to(baseUrl);
+			}
+			if(error==0)
+				out.println("No error in Sidebar Popular Deals");
+			else
+				out.println("There are "+ error + " errors in Sidebar Popular Deals!");
+				}catch(IOException e){
+					
+				}
 		}
+		
 		@AfterSuite
 		 public void tearDown(){
 			 driver.quit();

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42306" started-at="2016-07-04T12:17:07Z" finished-at="2016-07-04T12:17:49Z">
+  <suite name="Default suite" duration-ms="41079" started-at="2016-07-05T05:27:57Z" finished-at="2016-07-05T05:28:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42306" started-at="2016-07-04T12:17:07Z" finished-at="2016-07-04T12:17:49Z">
-      <class name="firsttestngproject.menutest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.menutest@cc285f4]" name="setUp" is-config="true" duration-ms="29689" started-at="2016-07-04T17:46:37Z" finished-at="2016-07-04T17:47:07Z">
+    <test name="Default test" duration-ms="41079" started-at="2016-07-05T05:27:57Z" finished-at="2016-07-05T05:28:38Z">
+      <class name="firsttestngproject.temp">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.temp@2b98378d]" name="setUp" is-config="true" duration-ms="22811" started-at="2016-07-05T10:57:34Z" finished-at="2016-07-05T10:57:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="sidebar_popular()[pri:1, instance:firsttestngproject.menutest@cc285f4]" name="sidebar_popular" duration-ms="42208" started-at="2016-07-04T17:47:07Z" finished-at="2016-07-04T17:47:49Z">
+        <test-method status="PASS" signature="sidebar_popular()[pri:2, instance:firsttestngproject.temp@2b98378d]" name="sidebar_popular" duration-ms="40977" started-at="2016-07-05T10:57:57Z" finished-at="2016-07-05T10:58:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sidebar_popular -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.menutest@cc285f4]" name="tearDown" is-config="true" duration-ms="258" started-at="2016-07-04T17:47:49Z" finished-at="2016-07-04T17:47:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.temp@2b98378d]" name="tearDown" is-config="true" duration-ms="434" started-at="2016-07-05T10:58:38Z" finished-at="2016-07-05T10:58:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- firsttestngproject.menutest -->
+      </class> <!-- firsttestngproject.temp -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
