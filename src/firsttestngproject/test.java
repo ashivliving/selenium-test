@@ -199,7 +199,7 @@ public class test {
 						    action.moveToElement(driver.findElement(By.xpath("//*[@id='mytokrinav']/li[6]/a")), 97, 16).click().build().perform();
 						    
 						    try {
-							    Thread.sleep(100);                 //100 milliseconds is one second.
+							    Thread.sleep(100);                
 							} catch(InterruptedException ex) {
 							    Thread.currentThread().interrupt();
 							}
