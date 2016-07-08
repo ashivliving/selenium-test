@@ -33,7 +33,7 @@ public class temp {
 			 caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,phantomloc);
 			 driver = new PhantomJSDriver(caps);
 			 baseUrl = "http://www.bechkitab.com/";
-			 driver.get(baseUrl);
+			 //driver.get(baseUrl);
 			 driver.manage().window().maximize();
 		}
 		
