@@ -6850,3 +6850,1708 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vfluPK2CM/www-embed-player.js:518
   ready (http://www.couponhind.com/js/jquery-1.11.0.min.js:2)
   K (http://www.couponhind.com/js/jquery-1.11.0.min.js:2)
 [INFO  - 2016-07-08T07:06:02.174Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-08T11:21:17.370Z] GhostDriver - Main - running on port 10804
+[INFO  - 2016-07-08T11:21:17.370Z] GhostDriver - Main - running on port 22616
+[INFO  - 2016-07-08T11:21:17.370Z] GhostDriver - Main - running on port 27519
+[INFO  - 2016-07-08T11:21:18.245Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-08T11:21:18.245Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.customHeaders:  - {}
+[INFO  - 2016-07-08T11:21:18.245Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-08T11:21:18.245Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-08T11:21:18.246Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1729b4d0-44fe-11e6-b8a6-0d4141088bc8
+[INFO  - 2016-07-08T11:21:18.246Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.customHeaders:  - {}
+[INFO  - 2016-07-08T11:21:18.247Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-08T11:21:18.247Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1729b4d0-44fe-11e6-b075-71bb0e450b20
+[INFO  - 2016-07-08T11:21:18.251Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-08T11:21:18.251Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.customHeaders:  - {}
+[INFO  - 2016-07-08T11:21:18.252Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-08T11:21:18.253Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1729b4d0-44fe-11e6-8256-a555a2ddc229
+[ERROR - 2016-07-08T11:22:28.202Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:28.203Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:31.578Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:31.578Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:33.192Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:33.192Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:36.382Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:36.382Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:39.812Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:39.813Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:42.373Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:42.374Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:43.707Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:43.707Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:50.845Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:50.846Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:52.288Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:52.289Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:54.530Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:54.530Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:56.765Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:56.765Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:58.198Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:122:68
+[ERROR - 2016-07-08T11:22:58.198Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:22:59.356Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:22:59.357Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:01.284Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:01.284Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:03.670Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:03.670Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:08.189Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:08.189Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:10.556Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:10.556Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:11.694Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:11.694Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:12.137Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:12.139Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:12.894Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:12.895Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:20.008Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:20.008Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:20.543Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:20.544Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:23.335Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:23.335Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:25.533Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:25.534Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4901)
+[ERROR - 2016-07-08T11:23:28.234Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:28.234Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:31.958Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:31.959Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:34.869Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:34.870Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4901)
+[ERROR - 2016-07-08T11:23:35.079Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:35.079Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:39.009Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:39.010Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:40.101Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:40.102Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4551)
+[ERROR - 2016-07-08T11:23:41.548Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:23:41.548Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:23:45.728Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:45.728Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:47.932Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:47.933Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4551)
+[ERROR - 2016-07-08T11:23:50.009Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:50.010Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:52.548Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:52.549Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:53.359Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:53.359Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4543)
+[ERROR - 2016-07-08T11:23:56.285Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:56.286Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:23:58.728Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:23:58.730Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4543)
+[ERROR - 2016-07-08T11:24:00.269Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:00.270Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4901)
+[ERROR - 2016-07-08T11:24:02.163Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:02.163Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4367)
+[ERROR - 2016-07-08T11:24:05.274Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:05.274Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:06.357Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:06.358Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:07.209Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:07.209Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:10.613Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:10.614Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4367)
+[ERROR - 2016-07-08T11:24:11.266Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:11.268Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4551)
+[ERROR - 2016-07-08T11:24:15.074Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:15.075Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:15.497Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:15.498Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:15.621Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:15.621Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4211)
+[ERROR - 2016-07-08T11:24:20.109Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:20.110Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4211)
+[ERROR - 2016-07-08T11:24:20.642Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:20.642Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:21.313Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:21.314Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4543)
+[ERROR - 2016-07-08T11:24:23.556Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:23.557Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:24.885Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:24.886Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4591)
+[ERROR - 2016-07-08T11:24:24.996Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:24.996Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:29.851Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:29.851Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4591)
+[ERROR - 2016-07-08T11:24:32.030Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:32.030Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:33.027Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:33.027Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4367)
+[ERROR - 2016-07-08T11:24:33.810Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:33.810Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:40.187Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:40.187Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:44.660Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:44.663Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2459)
+[ERROR - 2016-07-08T11:24:47.012Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:47.013Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2459)
+[ERROR - 2016-07-08T11:24:50.162Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:50.163Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4211)
+[ERROR - 2016-07-08T11:24:53.434Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:53.435Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:54.428Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:54.428Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:55.034Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:55.034Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:24:58.597Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:24:58.598Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5254)
+[ERROR - 2016-07-08T11:25:01.056Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:25:01.056Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4591)
+[ERROR - 2016-07-08T11:25:03.281Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:25:03.282Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5254)
+[ERROR - 2016-07-08T11:25:04.612Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:04.612Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:25:04.875Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:25:04.876Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:25:10.735Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:10.735Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:25:11.389Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:25:11.390Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2459)
+[ERROR - 2016-07-08T11:25:16.940Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:16.940Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:25:20.472Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:25:20.473Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-08T11:25:22.943Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:22.944Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:25:25.334Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-08T11:25:25.335Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5254)
+[ERROR - 2016-07-08T11:25:32.394Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:32.394Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:25:33.137Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:33.137Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/shopclues/:81)
+  onload (http://www.mytokri.com/store/shopclues/:78)
+[ERROR - 2016-07-08T11:25:38.318Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:38.319Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:25:40.839Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:40.840Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/shopclues/:81)
+  onload (http://www.mytokri.com/store/shopclues/:78)
+[ERROR - 2016-07-08T11:25:46.542Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:25:46.543Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:25:51.390Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:25:51.390Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/shopclues/:81)
+  onload (http://www.mytokri.com/store/shopclues/:78)
+[ERROR - 2016-07-08T11:25:57.287Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:25:57.287Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:07.109Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:07.109Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:12.239Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:12.240Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:12.261Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:12.262Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:15.188Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:15.189Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/jabong/:81)
+  onload (http://www.mytokri.com/store/jabong/:78)
+[INFO  - 2016-07-08T11:26:17.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-08T11:26:17.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-08T11:26:17.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-08T11:26:18.722Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:18.723Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:18.737Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:18.737Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:24.229Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:24.229Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/jabong/:81)
+  onload (http://www.mytokri.com/store/jabong/:78)
+[ERROR - 2016-07-08T11:26:28.826Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:28.827Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:28.846Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:28.847Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:31.734Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:31.735Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/jabong/:81)
+  onload (http://www.mytokri.com/store/jabong/:78)
+[ERROR - 2016-07-08T11:26:39.308Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:39.308Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/myntra/:81)
+  onload (http://www.mytokri.com/store/myntra/:78)
+[ERROR - 2016-07-08T11:26:40.646Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:40.647Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:48.440Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:48.440Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/myntra/:81)
+  onload (http://www.mytokri.com/store/myntra/:78)
+[ERROR - 2016-07-08T11:26:50.727Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:26:50.728Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:53.258Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:122:68
+[ERROR - 2016-07-08T11:26:53.258Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:26:54.685Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:54.687Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/myntra/:81)
+  onload (http://www.mytokri.com/store/myntra/:78)
+[ERROR - 2016-07-08T11:26:59.189Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:26:59.189Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/grofers/:81)
+  onload (http://www.mytokri.com/store/grofers/:78)
+[ERROR - 2016-07-08T11:27:01.497Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:27:01.497Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:27:08.203Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:27:08.203Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:27:12.737Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:27:12.738Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/grofers/:81)
+  onload (http://www.mytokri.com/store/grofers/:78)
+[ERROR - 2016-07-08T11:27:13.284Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:27:13.284Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:27:18.700Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:27:18.700Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/grofers/:81)
+  onload (http://www.mytokri.com/store/grofers/:78)
+[ERROR - 2016-07-08T11:27:20.684Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:27:20.684Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/ola-cabs/:81)
+  onload (http://www.mytokri.com/store/ola-cabs/:78)
+[ERROR - 2016-07-08T11:27:35.685Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:27:35.686Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/ola-cabs/:81)
+  onload (http://www.mytokri.com/store/ola-cabs/:78)
+[ERROR - 2016-07-08T11:27:38.102Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:27:38.103Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/ola-cabs/:81)
+  onload (http://www.mytokri.com/store/ola-cabs/:78)
+[ERROR - 2016-07-08T11:27:49.076Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:27:49.076Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/mobikwik/:81)
+  onload (http://www.mytokri.com/store/mobikwik/:78)
+[ERROR - 2016-07-08T11:27:52.143Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:27:52.143Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:01.167Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:01.168Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/mobikwik/:81)
+  onload (http://www.mytokri.com/store/mobikwik/:78)
+[ERROR - 2016-07-08T11:28:04.981Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:28:04.982Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:05.803Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:05.804Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/mobikwik/:81)
+  onload (http://www.mytokri.com/store/mobikwik/:78)
+[ERROR - 2016-07-08T11:28:08.572Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:28:08.572Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:12.250Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:28:12.250Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:15.195Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:15.196Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/freecharge/:81)
+  onload (http://www.mytokri.com/store/freecharge/:78)
+[ERROR - 2016-07-08T11:28:20.367Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:20.368Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/mobiles/:81)
+  onload (http://www.mytokri.com/category/mobiles/:78)
+[ERROR - 2016-07-08T11:28:26.533Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:28:26.534Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:43.947Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:43.947Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:28:44.500Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:44.500Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/freecharge/:81)
+  onload (http://www.mytokri.com/store/freecharge/:78)
+[ERROR - 2016-07-08T11:28:45.925Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:45.926Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/fashion/:81)
+  onload (http://www.mytokri.com/category/fashion/:78)
+[ERROR - 2016-07-08T11:28:47.799Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:47.799Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:28:49.884Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:28:49.885Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:50.999Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:50.999Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/freecharge/:81)
+  onload (http://www.mytokri.com/store/freecharge/:78)
+[ERROR - 2016-07-08T11:28:52.413Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:52.413Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/services/recharge/:81)
+  onload (http://www.mytokri.com/category/services/recharge/:78)
+[ERROR - 2016-07-08T11:28:53.757Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:53.758Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/mobiles/:81)
+  onload (http://www.mytokri.com/category/mobiles/:78)
+[ERROR - 2016-07-08T11:28:55.171Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:28:55.172Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:28:55.385Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:55.386Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/freecharge/:81)
+  onload (http://www.mytokri.com/store/freecharge/:78)
+[ERROR - 2016-07-08T11:28:56.803Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:28:56.804Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/rs-0-deal/:81)
+  onload (http://www.mytokri.com/category/rs-0-deal/:78)
+[ERROR - 2016-07-08T11:29:00.791Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:00.791Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/mobiles/:81)
+  onload (http://www.mytokri.com/category/mobiles/:78)
+[ERROR - 2016-07-08T11:29:02.448Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:02.449Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:29:03.749Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:03.749Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/fashion/:81)
+  onload (http://www.mytokri.com/category/fashion/:78)
+[ERROR - 2016-07-08T11:29:06.602Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:06.602Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:29:08.314Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:08.315Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/freecharge/:81)
+  onload (http://www.mytokri.com/store/freecharge/:78)
+[ERROR - 2016-07-08T11:29:09.412Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:09.412Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/services/recharge/:81)
+  onload (http://www.mytokri.com/category/services/recharge/:78)
+[ERROR - 2016-07-08T11:29:09.472Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:09.473Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:29:11.757Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:11.757Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/fashion/:81)
+  onload (http://www.mytokri.com/category/fashion/:78)
+[ERROR - 2016-07-08T11:29:13.518Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:13.518Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/baby-care/:81)
+  onload (http://www.mytokri.com/category/baby-care/:78)
+[ERROR - 2016-07-08T11:29:13.599Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:29:13.599Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:29:13.728Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:13.729Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:29:15.461Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:15.462Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/rs-0-deal/:81)
+  onload (http://www.mytokri.com/category/rs-0-deal/:78)
+[ERROR - 2016-07-08T11:29:16.028Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:16.029Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/fashion/:81)
+  onload (http://www.mytokri.com/category/fashion/:78)
+[ERROR - 2016-07-08T11:29:16.655Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:16.655Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/freecharge/:81)
+  onload (http://www.mytokri.com/store/freecharge/:78)
+[ERROR - 2016-07-08T11:29:18.723Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:18.723Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/services/recharge/:81)
+  onload (http://www.mytokri.com/category/services/recharge/:78)
+[ERROR - 2016-07-08T11:29:47.914Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:29:47.914Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:29:50.497Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:29:50.498Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:29:50.741Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:29:50.741Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/rs-0-deal/:81)
+  onload (http://www.mytokri.com/category/rs-0-deal/:78)
+[ERROR - 2016-07-08T11:30:02.590Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:02.591Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/services/recharge/:81)
+  onload (http://www.mytokri.com/category/services/recharge/:78)
+[ERROR - 2016-07-08T11:30:03.892Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:03.892Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:05.294Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:05.295Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/home-kitchen-appliances/:81)
+  onload (http://www.mytokri.com/category/home-kitchen-appliances/:78)
+[ERROR - 2016-07-08T11:30:07.098Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:07.098Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/mobiles/:81)
+  onload (http://www.mytokri.com/category/mobiles/:78)
+[ERROR - 2016-07-08T11:30:09.311Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:09.311Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/baby-care/:81)
+  onload (http://www.mytokri.com/category/baby-care/:78)
+[ERROR - 2016-07-08T11:30:12.107Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:12.108Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/fashion/:81)
+  onload (http://www.mytokri.com/category/fashion/:78)
+[ERROR - 2016-07-08T11:30:17.018Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:17.019Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/baby-care/:81)
+  onload (http://www.mytokri.com/category/baby-care/:78)
+[ERROR - 2016-07-08T11:30:17.630Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:17.630Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:30:19.075Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:19.077Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/fashion/:81)
+  onload (http://www.mytokri.com/category/fashion/:78)
+[ERROR - 2016-07-08T11:30:19.663Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:19.663Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:30:23.929Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:23.929Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:26.052Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:26.052Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/myntra/:81)
+  onload (http://www.mytokri.com/store/myntra/:78)
+[ERROR - 2016-07-08T11:30:27.727Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:27.727Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/services/recharge/:81)
+  onload (http://www.mytokri.com/category/services/recharge/:78)
+[ERROR - 2016-07-08T11:30:28.211Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:28.211Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:29.882Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:29.882Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/home-kitchen-appliances/:81)
+  onload (http://www.mytokri.com/category/home-kitchen-appliances/:78)
+[ERROR - 2016-07-08T11:30:29.937Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:29.938Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:30.094Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:30.095Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:31.175Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:31.176Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/jabong/:81)
+  onload (http://www.mytokri.com/store/jabong/:78)
+[ERROR - 2016-07-08T11:30:31.693Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:31.694Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/mobiles/:81)
+  onload (http://www.mytokri.com/category/mobiles/:78)
+[ERROR - 2016-07-08T11:30:33.891Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:33.892Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/services/recharge/:81)
+  onload (http://www.mytokri.com/category/services/recharge/:78)
+[ERROR - 2016-07-08T11:30:34.416Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:34.416Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:35.583Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:35.584Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/home-kitchen-appliances/:81)
+  onload (http://www.mytokri.com/category/home-kitchen-appliances/:78)
+[ERROR - 2016-07-08T11:30:37.649Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:30:37.650Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/category/mobiles/:81)
+  onload (http://www.mytokri.com/category/mobiles/:78)
+[ERROR - 2016-07-08T11:30:45.335Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:45.335Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:30:59.105Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:30:59.105Z] Session [1729b4d0-44fe-11e6-b8a6-0d4141088bc8] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:31:00.268Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:00.268Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[INFO  - 2016-07-08T11:31:01.534Z] ShutdownReqHand - _handle - About to shutdown
+[ERROR - 2016-07-08T11:31:02.474Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:02.475Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/amazon-india/:81)
+  onload (http://www.mytokri.com/store/amazon-india/:78)
+[ERROR - 2016-07-08T11:31:04.047Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:04.047Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:31:07.320Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:07.320Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/flipkart/:81)
+  onload (http://www.mytokri.com/store/flipkart/:78)
+[ERROR - 2016-07-08T11:31:09.125Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:09.125Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/myntra/:81)
+  onload (http://www.mytokri.com/store/myntra/:78)
+[ERROR - 2016-07-08T11:31:11.538Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:31:11.538Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:31:12.728Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:12.729Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/jabong/:81)
+  onload (http://www.mytokri.com/store/jabong/:78)
+[ERROR - 2016-07-08T11:31:13.548Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:13.549Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/myntra/:81)
+  onload (http://www.mytokri.com/store/myntra/:78)
+[ERROR - 2016-07-08T11:31:17.098Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:31:17.098Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[INFO  - 2016-07-08T11:31:17.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-08T11:31:17.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-08T11:31:18.231Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:31:18.231Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/store/jabong/:81)
+  onload (http://www.mytokri.com/store/jabong/:78)
+[ERROR - 2016-07-08T11:31:19.562Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:122:68
+[ERROR - 2016-07-08T11:31:19.562Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:31:23.232Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:31:23.232Z] Session [1729b4d0-44fe-11e6-8256-a555a2ddc229] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[INFO  - 2016-07-08T11:31:25.267Z] ShutdownReqHand - _handle - About to shutdown
+[ERROR - 2016-07-08T11:31:26.124Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:31:26.124Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-08T11:31:29.524Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-08T11:31:29.525Z] Session [1729b4d0-44fe-11e6-b075-71bb0e450b20] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[INFO  - 2016-07-08T11:31:31.543Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-08T11:32:46.090Z] GhostDriver - Main - running on port 10900
+[INFO  - 2016-07-08T11:32:46.799Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-08T11:32:46.799Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.customHeaders:  - {}
+[INFO  - 2016-07-08T11:32:46.799Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-08T11:32:46.799Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b1928e60-44ff-11e6-b453-1d2a351d4530
+[ERROR - 2016-07-08T11:32:49.657Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:32:49.658Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/:81)
+  onload (http://www.mytokri.com/:78)
+[ERROR - 2016-07-08T11:32:56.690Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:32:56.690Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/:81)
+  onload (http://www.mytokri.com/:78)
+[ERROR - 2016-07-08T11:32:58.479Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:32:58.479Z] Session [b1928e60-44ff-11e6-b453-1d2a351d4530] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/:81)
+  onload (http://www.mytokri.com/:78)
+[INFO  - 2016-07-08T11:32:59.355Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-08T11:33:42.564Z] GhostDriver - Main - running on port 25084
+[INFO  - 2016-07-08T11:33:42.890Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-08T11:33:42.891Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - page.customHeaders:  - {}
+[INFO  - 2016-07-08T11:33:42.891Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-08T11:33:42.891Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d301f950-44ff-11e6-b154-613ed25a7a0c
+[ERROR - 2016-07-08T11:33:47.398Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:33:47.398Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/:81)
+  onload (http://www.mytokri.com/:78)
+[ERROR - 2016-07-08T11:34:27.727Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467977667682
+[ERROR - 2016-07-08T11:34:30.161Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - page.onError - msg: ReferenceError: Can't find variable: postscribe
+[ERROR - 2016-07-08T11:34:30.161Z] Session [d301f950-44ff-11e6-b154-613ed25a7a0c] - page.onError - stack:
+  (anonymous function) (http://optimize.adpushup.com/2122/apv2.js:1)
+  e (http://optimize.adpushup.com/2122/apv2.js:1)
+  b (http://optimize.adpushup.com/2122/apv2.js:1)
+  runAp (http://optimize.adpushup.com/2122/apv2.js:1)
+  init (http://www.mytokri.com/:81)
+  onload (http://www.mytokri.com/:78)
+[INFO  - 2016-07-08T11:34:31.668Z] ShutdownReqHand - _handle - About to shutdown

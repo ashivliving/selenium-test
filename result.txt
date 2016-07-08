@@ -1,25 +1,7 @@
-Fri Jul 01 11:53:55 IST 2016
+Fri Jul 08 17:02:53 IST 2016
 Mytokri - Best Deals, Coupons, Offers, Freebies in India, Deals Website
 Result ---->
 Login Successful!
-Single Page Time:10676
-No error in Menubar DEALS
-No error in Menubar TRAVEL
-No error in Menubar COMMUNITY
-No error in Menubar STORES
-No error in Menubar CATEGORIES
-Menubar 2 working correctly
-No error in Footer ABOUT
-No error in Footer CATEGORY
-No error in Footer STORES
-No error in Menubar CATEGORIES
-No error in Menubar CATEGORIES
-No error in Sidebar Popular Deals
-Search Efficiency is - 100.0%.
-No error in Sidebar Popular Deals
-Search Efficiency is - 100.0%.
-No error in Sidebar Popular Deals
-Search Efficiency is - 100.0%.
-No error in Sidebar Popular Deals
+Single Page Time:5908
 Search Efficiency is - 100.0%.
 No error in Sidebar Popular Deals
