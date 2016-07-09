@@ -360,13 +360,14 @@ public class test {
 								out.println("No error in Footer Occasion");
 							else
 								out.println("There are "+ error + " errors in footer Occasion!");
-								*/
+								
 			}
+			
 		catch (IOException e) {
 			   
 		}
 			}
-		
+		*/
 		
 		@AfterSuite
 		 public void tearDown(){

@@ -8850,3 +8850,141 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
   (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
   e (http://static.adpushup.com/js/adpushupadsv2.js:1)
   a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:09:17.687Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:09:17.687Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:09:33.537Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:09:33.538Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:09:35.583Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:09:35.583Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:09:45.148Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:09:45.149Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:09:52.900Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:09:52.901Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:09:57.655Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:09:57.656Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:10:04.486Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:10:04.486Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:10:09.509Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:10:09.510Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:10:21.045Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:10:21.045Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:10:21.064Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:10:21.065Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:10:21.815Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:10:21.815Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:10:27.426Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:10:27.427Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[ERROR - 2016-07-09T07:10:34.082Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:10:34.082Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:10:37.342Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:10:37.343Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
