@@ -9048,3 +9048,578 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
 [INFO  - 2016-07-09T07:27:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-07-09T07:32:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-07-09T07:37:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T07:42:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T07:47:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T07:52:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T07:57:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T08:02:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T10:16:27.324Z] GhostDriver - Main - running on port 27782
+[INFO  - 2016-07-09T10:16:27.817Z] Session [32b3b640-45be-11e6-a3a9-0fa91842fb12] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:16:27.817Z] Session [32b3b640-45be-11e6-a3a9-0fa91842fb12] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:16:27.817Z] Session [32b3b640-45be-11e6-a3a9-0fa91842fb12] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:16:27.817Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 32b3b640-45be-11e6-a3a9-0fa91842fb12
+[INFO  - 2016-07-09T10:17:04.588Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:19:30.845Z] GhostDriver - Main - running on port 12835
+[INFO  - 2016-07-09T10:19:31.401Z] Session [a0206840-45be-11e6-9bb7-935a1adb06bd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:19:31.401Z] Session [a0206840-45be-11e6-9bb7-935a1adb06bd] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:19:31.401Z] Session [a0206840-45be-11e6-9bb7-935a1adb06bd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:19:31.401Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a0206840-45be-11e6-9bb7-935a1adb06bd
+[INFO  - 2016-07-09T10:19:38.530Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:20:18.995Z] GhostDriver - Main - running on port 23667
+[INFO  - 2016-07-09T10:20:19.213Z] Session [bc9f7b50-45be-11e6-b1dd-e18ba60aac2b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:20:19.213Z] Session [bc9f7b50-45be-11e6-b1dd-e18ba60aac2b] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:20:19.214Z] Session [bc9f7b50-45be-11e6-b1dd-e18ba60aac2b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:20:19.214Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bc9f7b50-45be-11e6-b1dd-e18ba60aac2b
+[INFO  - 2016-07-09T10:20:30.791Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:25:20.700Z] GhostDriver - Main - running on port 26563
+[INFO  - 2016-07-09T10:25:20.900Z] Session [707191e0-45bf-11e6-9bd2-179faa22f3b1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:25:20.901Z] Session [707191e0-45bf-11e6-9bd2-179faa22f3b1] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:25:20.901Z] Session [707191e0-45bf-11e6-9bd2-179faa22f3b1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:25:20.901Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 707191e0-45bf-11e6-9bd2-179faa22f3b1
+[INFO  - 2016-07-09T10:26:17.315Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:27:02.737Z] GhostDriver - Main - running on port 26302
+[INFO  - 2016-07-09T10:27:02.971Z] Session [ad488560-45bf-11e6-91b1-71e8ae13250a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:27:02.971Z] Session [ad488560-45bf-11e6-91b1-71e8ae13250a] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:27:02.971Z] Session [ad488560-45bf-11e6-91b1-71e8ae13250a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:27:02.971Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ad488560-45bf-11e6-91b1-71e8ae13250a
+[INFO  - 2016-07-09T10:27:54.850Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:31:14.124Z] GhostDriver - Main - running on port 2242
+[INFO  - 2016-07-09T10:31:14.410Z] Session [4325ffe0-45c0-11e6-bb9f-d1b21f082bd8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:31:14.410Z] Session [4325ffe0-45c0-11e6-bb9f-d1b21f082bd8] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:31:14.412Z] Session [4325ffe0-45c0-11e6-bb9f-d1b21f082bd8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:31:14.412Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4325ffe0-45c0-11e6-bb9f-d1b21f082bd8
+[ERROR - 2016-07-09T10:31:22.377Z] Session [4325ffe0-45c0-11e6-bb9f-d1b21f082bd8] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T10:31:22.377Z] Session [4325ffe0-45c0-11e6-bb9f-d1b21f082bd8] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[INFO  - 2016-07-09T10:32:08.262Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:40:47.049Z] GhostDriver - Main - running on port 5509
+[INFO  - 2016-07-09T10:40:47.414Z] Session [98b03bf0-45c1-11e6-9bd3-0d0c0051ac8b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:40:47.414Z] Session [98b03bf0-45c1-11e6-9bd3-0d0c0051ac8b] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:40:47.414Z] Session [98b03bf0-45c1-11e6-9bd3-0d0c0051ac8b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:40:47.415Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 98b03bf0-45c1-11e6-9bd3-0d0c0051ac8b
+[ERROR - 2016-07-09T10:40:58.198Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1468060858175
+[INFO  - 2016-07-09T10:40:59.666Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:42:35.973Z] GhostDriver - Main - running on port 12331
+[INFO  - 2016-07-09T10:42:36.189Z] Session [d9864980-45c1-11e6-ac46-479ba028ea0a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:42:36.189Z] Session [d9864980-45c1-11e6-ac46-479ba028ea0a] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:42:36.190Z] Session [d9864980-45c1-11e6-ac46-479ba028ea0a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:42:36.190Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d9864980-45c1-11e6-ac46-479ba028ea0a
+[INFO  - 2016-07-09T10:43:07.995Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:43:25.135Z] GhostDriver - Main - running on port 18459
+[INFO  - 2016-07-09T10:43:25.321Z] Session [f6cf3c40-45c1-11e6-ba87-697f93acd1cd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:43:25.321Z] Session [f6cf3c40-45c1-11e6-ba87-697f93acd1cd] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:43:25.321Z] Session [f6cf3c40-45c1-11e6-ba87-697f93acd1cd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:43:25.321Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f6cf3c40-45c1-11e6-ba87-697f93acd1cd
+[INFO  - 2016-07-09T10:44:19.411Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:44:41.843Z] GhostDriver - Main - running on port 16132
+[INFO  - 2016-07-09T10:44:42.017Z] Session [24861dc0-45c2-11e6-b57d-f9ff0187fd57] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:44:42.017Z] Session [24861dc0-45c2-11e6-b57d-f9ff0187fd57] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:44:42.017Z] Session [24861dc0-45c2-11e6-b57d-f9ff0187fd57] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:44:42.018Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 24861dc0-45c2-11e6-b57d-f9ff0187fd57
+[INFO  - 2016-07-09T10:45:26.586Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:46:46.234Z] GhostDriver - Main - running on port 18058
+[INFO  - 2016-07-09T10:46:46.650Z] Session [6ecefe10-45c2-11e6-b278-937d285cd854] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:46:46.650Z] Session [6ecefe10-45c2-11e6-b278-937d285cd854] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:46:46.651Z] Session [6ecefe10-45c2-11e6-b278-937d285cd854] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:46:46.652Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6ecefe10-45c2-11e6-b278-937d285cd854
+[INFO  - 2016-07-09T10:47:44.010Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:49:19.970Z] GhostDriver - Main - running on port 16624
+[INFO  - 2016-07-09T10:49:20.183Z] Session [ca52ba10-45c2-11e6-8f61-09962d07c88e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:49:20.183Z] Session [ca52ba10-45c2-11e6-8f61-09962d07c88e] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:49:20.183Z] Session [ca52ba10-45c2-11e6-8f61-09962d07c88e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:49:20.183Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ca52ba10-45c2-11e6-8f61-09962d07c88e
+[INFO  - 2016-07-09T10:50:14.850Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:50:45.233Z] GhostDriver - Main - running on port 25414
+[INFO  - 2016-07-09T10:50:45.472Z] Session [fd28cba0-45c2-11e6-beb4-b50757522fa6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:50:45.472Z] Session [fd28cba0-45c2-11e6-beb4-b50757522fa6] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:50:45.474Z] Session [fd28cba0-45c2-11e6-beb4-b50757522fa6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:50:45.475Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fd28cba0-45c2-11e6-beb4-b50757522fa6
+[INFO  - 2016-07-09T10:50:52.414Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:51:53.444Z] GhostDriver - Main - running on port 28288
+[INFO  - 2016-07-09T10:51:53.680Z] Session [25d0a9b0-45c3-11e6-95e2-0f0d35098418] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:51:53.680Z] Session [25d0a9b0-45c3-11e6-95e2-0f0d35098418] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:51:53.681Z] Session [25d0a9b0-45c3-11e6-95e2-0f0d35098418] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:51:53.681Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 25d0a9b0-45c3-11e6-95e2-0f0d35098418
+[ERROR - 2016-07-09T10:52:01.169Z] Session [25d0a9b0-45c3-11e6-95e2-0f0d35098418] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T10:52:01.170Z] Session [25d0a9b0-45c3-11e6-95e2-0f0d35098418] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[INFO  - 2016-07-09T10:52:25.859Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T10:57:21.862Z] GhostDriver - Main - running on port 10225
+[INFO  - 2016-07-09T10:57:22.106Z] Session [e9927e50-45c3-11e6-99fe-ad5f6526ab19] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T10:57:22.106Z] Session [e9927e50-45c3-11e6-99fe-ad5f6526ab19] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T10:57:22.107Z] Session [e9927e50-45c3-11e6-99fe-ad5f6526ab19] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T10:57:22.107Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e9927e50-45c3-11e6-99fe-ad5f6526ab19
+[INFO  - 2016-07-09T10:58:01.854Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:00:42.978Z] GhostDriver - Main - running on port 31823
+[INFO  - 2016-07-09T11:00:43.224Z] Session [6172aa30-45c4-11e6-84fd-83a58424e830] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:00:43.225Z] Session [6172aa30-45c4-11e6-84fd-83a58424e830] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:00:43.226Z] Session [6172aa30-45c4-11e6-84fd-83a58424e830] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:00:43.227Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6172aa30-45c4-11e6-84fd-83a58424e830
+[INFO  - 2016-07-09T11:01:31.368Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:02:19.149Z] GhostDriver - Main - running on port 16149
+[INFO  - 2016-07-09T11:02:19.407Z] Session [9ac6df90-45c4-11e6-8347-9160048672c9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:02:19.407Z] Session [9ac6df90-45c4-11e6-8347-9160048672c9] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:02:19.408Z] Session [9ac6df90-45c4-11e6-8347-9160048672c9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:02:19.408Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9ac6df90-45c4-11e6-8347-9160048672c9
+[INFO  - 2016-07-09T11:03:39.026Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:13:00.543Z] GhostDriver - Main - running on port 32422
+[INFO  - 2016-07-09T11:13:00.876Z] Session [191f4660-45c6-11e6-ada7-29079da6f18b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:13:00.876Z] Session [191f4660-45c6-11e6-ada7-29079da6f18b] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:13:00.876Z] Session [191f4660-45c6-11e6-ada7-29079da6f18b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:13:00.877Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 191f4660-45c6-11e6-ada7-29079da6f18b
+[INFO  - 2016-07-09T11:13:47.266Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:14:33.227Z] GhostDriver - Main - running on port 12040
+[INFO  - 2016-07-09T11:14:33.717Z] Session [50753ac0-45c6-11e6-99c3-31c3aedc6880] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:14:33.717Z] Session [50753ac0-45c6-11e6-99c3-31c3aedc6880] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:14:33.719Z] Session [50753ac0-45c6-11e6-99c3-31c3aedc6880] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:14:33.719Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 50753ac0-45c6-11e6-99c3-31c3aedc6880
+[ERROR - 2016-07-09T11:14:41.087Z] Session [50753ac0-45c6-11e6-99c3-31c3aedc6880] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:14:41.087Z] Session [50753ac0-45c6-11e6-99c3-31c3aedc6880] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[INFO  - 2016-07-09T11:15:55.350Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:19:53.780Z] GhostDriver - Main - running on port 8813
+[INFO  - 2016-07-09T11:19:53.982Z] Session [0f5a6690-45c7-11e6-992f-15dcb66b77e4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:19:53.982Z] Session [0f5a6690-45c7-11e6-992f-15dcb66b77e4] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:19:53.983Z] Session [0f5a6690-45c7-11e6-992f-15dcb66b77e4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:19:53.983Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0f5a6690-45c7-11e6-992f-15dcb66b77e4
+[INFO  - 2016-07-09T11:21:44.125Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:39:23.867Z] GhostDriver - Main - running on port 28794
+[INFO  - 2016-07-09T11:39:24.251Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:39:24.251Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:39:24.251Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:39:24.252Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c8e2d230-45c9-11e6-9de3-8bc4bfd319b5
+[ERROR - 2016-07-09T11:40:40.125Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:40:40.125Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:09.793Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:09.794Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:23.872Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:23.873Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:26.743Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:26.743Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:30.874Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:30.874Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:35.888Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:35.888Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:39.685Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:39.685Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:41:43.585Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:41:43.586Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:42:09.313Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:42:09.313Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:42:16.689Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:42:16.689Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:42:19.583Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:42:19.583Z] Session [c8e2d230-45c9-11e6-9de3-8bc4bfd319b5] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:42:26.578Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1468064546554
+[ERROR - 2016-07-09T11:42:30.629Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1468064550581
+[ERROR - 2016-07-09T11:42:31.688Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1468064551638
+[INFO  - 2016-07-09T11:42:32.940Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T11:45:27.680Z] GhostDriver - Main - running on port 2182
+[INFO  - 2016-07-09T11:45:27.939Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T11:45:27.939Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T11:45:27.940Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T11:45:27.940Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a1a8e690-45ca-11e6-81c6-598161078660
+[ERROR - 2016-07-09T11:46:54.649Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:46:54.650Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:46:56.700Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:46:56.701Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:46:58.622Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:46:58.622Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:47:07.698Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:47:07.698Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:47:09.274Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:47:09.274Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:47:13.497Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:47:13.497Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:47:16.454Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:47:16.455Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:47:22.701Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:22.702Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T11:47:28.326Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:28.327Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4878)
+[ERROR - 2016-07-09T11:47:30.751Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:30.751Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4551)
+[ERROR - 2016-07-09T11:47:35.499Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:35.500Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4543)
+[ERROR - 2016-07-09T11:47:38.811Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:38.811Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4367)
+[ERROR - 2016-07-09T11:47:42.487Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:42.488Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T11:47:46.537Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:46.539Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4211)
+[ERROR - 2016-07-09T11:47:50.537Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:50.538Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4586)
+[ERROR - 2016-07-09T11:47:53.751Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:53.751Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2459)
+[ERROR - 2016-07-09T11:47:58.313Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:47:58.313Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5254)
+[ERROR - 2016-07-09T11:48:01.932Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:01.932Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:14.985Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:14.985Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:24.124Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:24.124Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:25.287Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:48:25.288Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:48:26.672Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:26.672Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:29.665Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:29.665Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:33.236Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:33.237Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:35.614Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:35.615Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:36.891Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:48:36.891Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:48:36.906Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:48:36.907Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:48:51.280Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:51.280Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:52.244Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:52.244Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:48:55.308Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:48:55.308Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:48:59.368Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:48:59.368Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:49:01.861Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:49:01.861Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:49:02.228Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:49:02.228Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:49:05.874Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:49:05.874Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:49:08.819Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:49:08.820Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:49:11.515Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:49:11.515Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:49:21.596Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:49:21.596Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
