@@ -32,24 +32,14 @@ public class temp {
 			 caps.setCapability("takesScreenshot", true);
 			 caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,phantomloc);
 			 driver = new PhantomJSDriver(caps);
-			 baseUrl = "http://www.bechkitab.com/";
-			 //driver.get(baseUrl);
+			 baseUrl = "http://www.mytokri.com/";
+			 driver.get(baseUrl);
 			 driver.manage().window().maximize();
 		}
 		
 		@Test(priority = 1)
 		public void testing(){
-			for(int i=0;i<100;i++){
-				System.out.println(i);
-				driver.navigate().to("http://www.google.com");
-				
-				driver.navigate().to(baseUrl);
-				try {
-				    Thread.sleep(1000);                
-				} catch(InterruptedException ex) {
-				    Thread.currentThread().interrupt();
-				}
-			}
+			System.out.println(driver.getTitle());
 		}
 		
 		@AfterSuite
