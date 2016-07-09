@@ -49,8 +49,9 @@ public class UserAgent {
 					  "contests forum","chit chat forum","log in",
 					  "site questions"};
 				error = 0;
-				driver.findElement(By.xpath("//*[@id='mytokrinav']/li[4]/a")).click();   
+				driver.findElement(By.xpath("//*[@id='mytokrinav']/li[3]/a")).click();   
 				Actions action = new Actions(driver);
+			
 				 File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 			    try{
 			    FileUtils.copyFile(scrFile, new File("/var/lib/jenkins/workspace/image.jpg"),true);
