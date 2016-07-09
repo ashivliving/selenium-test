@@ -165,7 +165,7 @@ public class test {
 					out.println("No error in Menubar STORES");
 						else
 					out.println("There are "+ error + " errors in Menubar STORES!");
-
+					System.out.println("Menu Bar Done!");
 	/*				//=============> Category <=============
 					String[] keyword_menucategory = {"mobile phone best deals","mobile accessories coupons",
 													 "cameras coupons","camera accessories coupons",
@@ -257,6 +257,7 @@ public class test {
 					out.println("Menubar 2 working correctly");
 			else
 					out.println("There are "+ error + " errors!");
+			System.out.println("MenuBar2 Done!");
 				}
 			catch (IOException e) {
 			}
@@ -338,6 +339,8 @@ public class test {
 							out.println("No error in Footer STORES");
 						else
 							out.println("There are "+ error + " errors in footer STORES!");
+						
+						System.out.println("Footer Done!");
 			//==========> Occasion <=============	
 						/*
 						error = 0;
