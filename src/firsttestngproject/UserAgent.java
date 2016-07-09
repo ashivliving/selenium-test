@@ -49,6 +49,16 @@ public class UserAgent {
 					  "contests forum","chit chat forum","log in",
 					  "site questions"};
 				error = 0;
+				driver.findElement(By.xpath("//*[@id='mytokrinav']/li[4]/a")).click();   
+				Actions action = new Actions(driver);
+				 File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			    try{
+			    FileUtils.copyFile(scrFile, new File("/var/lib/jenkins/workspace/image.jpg"),true);
+			    	System.out.println("Login Successful!");
+			    }  catch(Exception e){
+			    	System.out.println("Can't capture screenshot!");
+			    }
+				/*
 				for(int i=1;i<=2;i++)
 				{
 				for(int j=1;j<=4;j++)
@@ -73,7 +83,7 @@ public class UserAgent {
 				System.out.println("No error in Menubar COMMUNITY");
 				else
 				System.out.println("There are "+ error + " errors in Menubar COMMUNITY!");
-
+				*/
 
 			}
 		
