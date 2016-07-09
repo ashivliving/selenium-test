@@ -8555,3 +8555,298 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
   init (http://www.mytokri.com/:81)
   onload (http://www.mytokri.com/:78)
 [INFO  - 2016-07-08T11:34:31.668Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-07-09T07:02:39.672Z] GhostDriver - Main - running on port 16206
+[INFO  - 2016-07-09T07:02:40.205Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T07:02:40.205Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T07:02:40.205Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T07:02:40.206Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 201aec80-45a3-11e6-8a81-b55ce1de0528
+[ERROR - 2016-07-09T07:02:56.072Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:02:56.072Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[ERROR - 2016-07-09T07:03:42.996Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:03:42.996Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:03:57.744Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:03:57.744Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:04:04.623Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:04:04.624Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:04:35.471Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:04:35.471Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:04:45.198Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:04:45.198Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:04:46.822Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:04:46.822Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:04:52.082Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:04:52.082Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:04:57.666Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:04:57.667Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:05:03.914Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:05:03.914Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:05:11.707Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:05:11.707Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:05:13.938Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:05:13.938Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:05:19.250Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:05:19.250Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:05:33.152Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:05:33.153Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:05:40.713Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:05:40.713Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:05:46.680Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T07:05:46.680Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T07:05:55.132Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:05:55.133Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:06:07.534Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:07.534Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4825)
+[ERROR - 2016-07-09T07:06:13.904Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:13.905Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:06:22.094Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:22.095Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4551)
+[ERROR - 2016-07-09T07:06:28.842Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:28.842Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:06:38.761Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:38.761Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4543)
+[ERROR - 2016-07-09T07:06:49.257Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:49.257Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:06:55.846Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:06:55.846Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4367)
+[ERROR - 2016-07-09T07:07:06.687Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:07:06.687Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:07:16.994Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:07:16.994Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4211)
+[ERROR - 2016-07-09T07:07:23.930Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:07:23.931Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[INFO  - 2016-07-09T07:07:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-09T07:07:41.517Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:07:41.517Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4586)
+[ERROR - 2016-07-09T07:07:52.876Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:07:52.876Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:08:02.192Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:08:02.192Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2459)
+[ERROR - 2016-07-09T07:08:06.582Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:08:06.582Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:08:12.781Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:08:12.781Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5254)
+[ERROR - 2016-07-09T07:08:17.154Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:08:17.155Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:08:23.887Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:08:23.888Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[ERROR - 2016-07-09T07:08:28.520Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:08:28.520Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:08:40.186Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:08:40.186Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:08:44.908Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:08:44.909Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:08:57.173Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:08:57.173Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T07:09:12.949Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T07:09:12.949Z] Session [201aec80-45a3-11e6-8a81-b55ce1de0528] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)

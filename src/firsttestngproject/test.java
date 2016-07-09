@@ -60,13 +60,13 @@ public class test {
 				String str2 = keyword_deal[i-2];
 				if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 				  {		error++;
-					  	out.println("Error occur at Menubar DEALS : "+ str2 + " page!");  
+					  	System.out.println("Error occur at Menubar DEALS : "+ str2 + " page!");  
 				  }
 			}
 			if(error==0)
-				out.println("No error in Menubar DEALS");
+				System.out.println("No error in Menubar DEALS");
 			else
-				out.println("There are "+ error + " errors in Menubar DEALS!");	
+				System.out.println("There are "+ error + " errors in Menubar DEALS!");	
 
 			
 		    
@@ -88,13 +88,13 @@ public class test {
 				String str2 = keyword_travel[i-1];
 				if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 				  {		error++;
-					  	out.println("Error occur at Menubar TRAVEL : "+ str2 + " page!");  
+				  	System.out.println("Error occur at Menubar TRAVEL : "+ str2 + " page!");  
 				  }
 			}
 			if(error==0)
-				out.println("No error in Menubar TRAVEL");
+				System.out.println("No error in Menubar TRAVEL");
 			else
-				out.println("There are "+ error + " errors in Menubar TRAVEL!");
+				System.out.println("There are "+ error + " errors in Menubar TRAVEL!");
 			
 			//=============> Community <=============
 			String[] keyword_community = {"hot deals online","coupons forum",
@@ -118,14 +118,14 @@ public class test {
 				    String str2 = keyword_community[k];
 				    if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 					  {		error++;
-						  	out.println("Error occur at Menubar COMMUNITY : "+ str2 + " page!");  
+					  System.out.println("Error occur at Menubar COMMUNITY : "+ str2 + " page!");  
 					  }
 				}
 			}
 			if(error==0)
-				out.println("No error in Menubar COMMUNITY");
+				System.out.println("No error in Menubar COMMUNITY");
 			else
-				out.println("There are "+ error + " errors in Menubar COMMUNITY!");
+				System.out.println("There are "+ error + " errors in Menubar COMMUNITY!");
 			
 			//==============> STORES <======================
 			
@@ -156,15 +156,15 @@ public class test {
 							String str2 = keyword_menustore[k];
 							if(!(str1.toLowerCase().contains(str2.toLowerCase())))
 							{		error++;
-								  	out.println("Error occur at Menubar STORES : "+ str2 + " page!");  
+							System.out.println("Error occur at Menubar STORES : "+ str2 + " page!");  
 							}
 							
 						}
 					}
 					if(error==0)
-					out.println("No error in Menubar STORES");
+						System.out.println("No error in Menubar STORES");
 						else
-					out.println("There are "+ error + " errors in Menubar STORES!");
+							System.out.println("There are "+ error + " errors in Menubar STORES!");
 					System.out.println("Menu Bar Done!");
 	/*				//=============> Category <=============
 					String[] keyword_menucategory = {"mobile phone best deals","mobile accessories coupons",
@@ -229,7 +229,7 @@ public class test {
 		
 		
 		
-		
+		/*
 		@Test(priority = 2)
 		public void checkMenuBar2() throws IOException{
 			try(FileWriter fw = new FileWriter("result.txt", true);
