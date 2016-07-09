@@ -27,6 +27,7 @@ public class Dummy {
 		 driver = new PhantomJSDriver(caps);
 		 baseUrl = "http://www.mytokri.com/";
          driver.get(baseUrl);
+         driver.manage().window().maximize();
 	}
 	
 	@Test(priority = 1)
@@ -34,6 +35,8 @@ public class Dummy {
 				String str = "";
 				String str404 = "MyTokri - 404 Error Page";
 		List<WebElement> list=driver.findElements(By.xpath("//*[@href]"));
+		System.out.println(list.size());
+		/*
 		List<String> all = new ArrayList<String>();
 		for(WebElement e : list){
 			if((e.getTagName().toLowerCase().contains("a"))&&(e.getAttribute("href").toLowerCase().contains(baseUrl)))

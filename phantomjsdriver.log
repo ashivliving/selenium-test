@@ -10132,3 +10132,628 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
   (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
   e (http://static.adpushup.com/js/adpushupadsv2.js:1)
   a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:55:10.854Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:55:10.854Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/shopclues-sunday-flea-market-sale-offers-26th-june-deals.75937/#post-125067:3450)
+[ERROR - 2016-07-09T11:55:15.411Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:55:15.412Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:55:18.453Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:55:18.454Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[INFO  - 2016-07-09T11:55:27.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-09T11:55:56.157Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:55:56.157Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/womens-tops-tees-shirts-at-flat-70-off.77799/#post-123921:2962)
+[ERROR - 2016-07-09T11:55:58.711Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:55:58.711Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:00.487Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:00.488Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:04.763Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:56:04.763Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/100-cashback-on-the-ticket-price-of-one-movie-ticket-upto-rs-150-at-inox-paytm.78389/:2959)
+[ERROR - 2016-07-09T11:56:07.364Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:07.364Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:08.671Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:08.671Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:21.489Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:56:21.489Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/hp-petrol-pumps-with-freecharge-wallet-rs-25-cashback-on-rs-150-delhi-mumbai.78199/:2965)
+[ERROR - 2016-07-09T11:56:26.799Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:26.799Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:29.480Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:29.480Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:34.356Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:56:34.356Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/paytm-sultan-movie-book-movie-ticket-get-100-cashback-on-2nd-ticket.77460/:3116)
+[ERROR - 2016-07-09T11:56:37.690Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:37.691Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:43.183Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:43.184Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:48.757Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:56:48.758Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/flipkart-fashion-sale-24th-june-to-26th-june-2016.74363/#post-124543:3574)
+[ERROR - 2016-07-09T11:56:52.381Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:52.381Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:56:56.236Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:56:56.236Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:57:09.149Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-07-09T11:57:09.149Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:11613)
+  m (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:239)
+  (anonymous function) (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:241)
+  K (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:243)
+[ERROR - 2016-07-09T11:57:09.614Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: Error: Event execution failed for event ready: Can't find variable: ue:partialPublish
+[ERROR - 2016-07-09T11:57:09.614Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  error (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:241)
+  b (http://z-ecx.images-amazon.com/images/G/01/AUIClients/AmazonUI-6f4caa2c389c684be8c471dfb9223970feb228d2._V2_.js#AUIClients/AmazonUI.rendering_engine-not-trident.udp_amznjq_shim.min:27)
+  publish (http://z-ecx.images-amazon.com/images/G/01/AUIClients/AmazonUI-6f4caa2c389c684be8c471dfb9223970feb228d2._V2_.js#AUIClients/AmazonUI.rendering_engine-not-trident.udp_amznjq_shim.min:29)
+  a (http://z-ecx.images-amazon.com/images/G/01/AUIClients/AmazonUI-6f4caa2c389c684be8c471dfb9223970feb228d2._V2_.js#AUIClients/AmazonUI.rendering_engine-not-trident.udp_amznjq_shim.min:30)
+  (anonymous function) (http://z-ecx.images-amazon.com/images/G/01/AUIClients/AmazonUI-6f4caa2c389c684be8c471dfb9223970feb228d2._V2_.js#AUIClients/AmazonUI.rendering_engine-not-trident.udp_amznjq_shim.min:30)
+  (anonymous function) (http://z-ecx.images-amazon.com/images/G/01/AUIClients/DetailPageTwisterAssets-df975990ab8e7f1bfa966e9c2152bbb3ecf3be95._V2_.js#AUIClients/DetailPageTwisterAssets.weblab-CCX_DPV2_LATENCY_IMPROVEMENTS_59727-T1.min:82)
+  m (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:239)
+  (anonymous function) (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:241)
+  K (http://www.amazon.in/Coolpad-Note-3-Black-16GB/dp/B0158IT7ES:243)
+[ERROR - 2016-07-09T11:57:16.865Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:57:16.865Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/coolpad-note-3-black-16gb-rs7999.78046/:2959)
+[ERROR - 2016-07-09T11:57:24.855Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:57:24.856Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:57:31.980Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:57:31.981Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:57:45.821Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:57:45.822Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/amazon-fashion-end-of-season-sale-upto-70-off.77192/:2948)
+[ERROR - 2016-07-09T11:57:51.548Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:57:51.548Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:57:54.265Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:57:54.265Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:58:00.114Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: FKART
+[ERROR - 2016-07-09T11:58:00.114Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://img5a.flixcart.com/www/prod/js/legoBrowsePage-8214882.js:1)
+[ERROR - 2016-07-09T11:58:00.145Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: FKART
+[ERROR - 2016-07-09T11:58:00.145Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://img5a.flixcart.com/www/prod/js/carousel-e1e730d.js:15)
+[ERROR - 2016-07-09T11:58:00.172Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: register_controller
+[ERROR - 2016-07-09T11:58:00.172Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://img5a.flixcart.com/www/prod/js/socialLogin-f0c81c0.js:1)
+[ERROR - 2016-07-09T11:58:00.212Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: addOnload
+[ERROR - 2016-07-09T11:58:00.213Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.flipkart.com/womens-clothing/lingerie-sleep-swimwear/pr?p%5B%5D=facets.brand%255B%255D%3DTweens&p%5B%5D=facets.brand%255B%255D%3DHanes&p%5B%5D=facets.brand%255B%255D%3DOleva&p%5B%5D=facets.brand%255B%255D%3DLibertina&p%5B%5D=facets.brand%255B%255D%3DCoucou&p%5B%5D=facets.brand%255B%255D%3DCoucou%2Bby%2BZivame&p%5B%5D=facets.brand%255B%255D%3DDermawear&p%5B%5D=facets.brand%255B%255D%3DGlam%2BQuotient&p%5B%5D=facets.brand%255B%255D%3DJohnson&p%5B%5D=facets.brand%255B%255D%3Doleva&p%5B%5D=facets.brand%255B%255D%3DOLEVA&p%5B%5D=facets.brand%255B%255D%3DPenny&p%5B%5D=facets.brand%255B%255D%3DPenny%2Bby%2BZivame&p%5B%5D=facets.brand%255B%255D%3Dpenny%2Bby%2Bzivame&p%5B%5D=facets.brand%255B%255D%3DPenny%2Bby%2Bzivame&p%5B%5D=facets.brand%255B%255D%3DPrettySecrets&p%5B%5D=facets.brand%255B%255D%3DRosaline&p%5B%5D=facets.brand%255B%255D%3DVaishma&p%5B%5D=facets.brand%255B%255D%3DVaishna&p%5B%5D=facets.brand%255B%255D%3DVivity&sid=2oq%2Cc1r%2Ctbt&pincode=560034&filterNone=true&affid=saurav99gu&affExtParam1=deal&affExtParam2=direct:22681)
+[ERROR - 2016-07-09T11:58:00.249Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: addOnload
+[ERROR - 2016-07-09T11:58:00.249Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.flipkart.com/womens-clothing/lingerie-sleep-swimwear/pr?p%5B%5D=facets.brand%255B%255D%3DTweens&p%5B%5D=facets.brand%255B%255D%3DHanes&p%5B%5D=facets.brand%255B%255D%3DOleva&p%5B%5D=facets.brand%255B%255D%3DLibertina&p%5B%5D=facets.brand%255B%255D%3DCoucou&p%5B%5D=facets.brand%255B%255D%3DCoucou%2Bby%2BZivame&p%5B%5D=facets.brand%255B%255D%3DDermawear&p%5B%5D=facets.brand%255B%255D%3DGlam%2BQuotient&p%5B%5D=facets.brand%255B%255D%3DJohnson&p%5B%5D=facets.brand%255B%255D%3Doleva&p%5B%5D=facets.brand%255B%255D%3DOLEVA&p%5B%5D=facets.brand%255B%255D%3DPenny&p%5B%5D=facets.brand%255B%255D%3DPenny%2Bby%2BZivame&p%5B%5D=facets.brand%255B%255D%3Dpenny%2Bby%2Bzivame&p%5B%5D=facets.brand%255B%255D%3DPenny%2Bby%2Bzivame&p%5B%5D=facets.brand%255B%255D%3DPrettySecrets&p%5B%5D=facets.brand%255B%255D%3DRosaline&p%5B%5D=facets.brand%255B%255D%3DVaishma&p%5B%5D=facets.brand%255B%255D%3DVaishna&p%5B%5D=facets.brand%255B%255D%3DVivity&sid=2oq%2Cc1r%2Ctbt&pincode=560034&filterNone=true&affid=saurav99gu&affExtParam1=deal&affExtParam2=direct:22702)
+[ERROR - 2016-07-09T11:58:00.510Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: undefined is not an object (evaluating 'new FKART.analytics.omnitureTracker')
+[ERROR - 2016-07-09T11:58:00.510Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.flipkart.com/womens-clothing/lingerie-sleep-swimwear/pr?p%5B%5D=facets.brand%255B%255D%3DTweens&p%5B%5D=facets.brand%255B%255D%3DHanes&p%5B%5D=facets.brand%255B%255D%3DOleva&p%5B%5D=facets.brand%255B%255D%3DLibertina&p%5B%5D=facets.brand%255B%255D%3DCoucou&p%5B%5D=facets.brand%255B%255D%3DCoucou%2Bby%2BZivame&p%5B%5D=facets.brand%255B%255D%3DDermawear&p%5B%5D=facets.brand%255B%255D%3DGlam%2BQuotient&p%5B%5D=facets.brand%255B%255D%3DJohnson&p%5B%5D=facets.brand%255B%255D%3Doleva&p%5B%5D=facets.brand%255B%255D%3DOLEVA&p%5B%5D=facets.brand%255B%255D%3DPenny&p%5B%5D=facets.brand%255B%255D%3DPenny%2Bby%2BZivame&p%5B%5D=facets.brand%255B%255D%3Dpenny%2Bby%2Bzivame&p%5B%5D=facets.brand%255B%255D%3DPenny%2Bby%2Bzivame&p%5B%5D=facets.brand%255B%255D%3DPrettySecrets&p%5B%5D=facets.brand%255B%255D%3DRosaline&p%5B%5D=facets.brand%255B%255D%3DVaishma&p%5B%5D=facets.brand%255B%255D%3DVaishna&p%5B%5D=facets.brand%255B%255D%3DVivity&sid=2oq%2Cc1r%2Ctbt&pincode=560034&filterNone=true&affid=saurav99gu&affExtParam1=deal&affExtParam2=direct:22880)
+[ERROR - 2016-07-09T11:58:03.796Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:58:03.796Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/flipkart-lingrie-fest-upto-70-off.77398/:3102)
+[ERROR - 2016-07-09T11:58:11.353Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:58:11.353Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:58:15.835Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:58:15.835Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:58:25.574Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:58:25.575Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/min-40-off-n-bags-luggages-snapdeal.77569/:2949)
+[ERROR - 2016-07-09T11:58:32.668Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:58:32.669Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:58:35.581Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:58:35.582Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:58:50.527Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:58:50.527Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/min-40-off-on-mens-footwear-snapdeal.77570/:2949)
+[ERROR - 2016-07-09T11:58:53.296Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:58:53.297Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:58:57.527Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:58:57.528Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:59:04.203Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:59:04.203Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/flat-65-off-on-libas-womens-clothing-myntra.77518/:2956)
+[ERROR - 2016-07-09T11:59:09.460Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:59:09.461Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[ERROR - 2016-07-09T11:59:19.331Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:59:19.332Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/threads/mytokri-faqs.3726/:5987)
+[ERROR - 2016-07-09T11:59:22.455Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:59:22.455Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:59:25.745Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:59:25.746Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:59:33.000Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T11:59:33.000Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T11:59:37.041Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T11:59:37.041Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/american-tourister-backbacks-minimun-40-off-starts-rs625-from-myntra.77665/#post-123720%23mbcommentlink:3106)
+[ERROR - 2016-07-09T11:59:40.570Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:59:40.570Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:59:44.022Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:59:44.023Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T11:59:46.786Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T11:59:46.786Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:00:12.431Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:00:12.431Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/eureka-forbes-dr-aeroguard-air-purifiers-free-home-demo.78477/:2949)
+[ERROR - 2016-07-09T12:00:17.029Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:00:17.029Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:00:19.676Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:00:19.676Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[INFO  - 2016-07-09T12:00:27.702Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-09T12:00:50.979Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:00:50.979Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/shopclues-sunday-flea-market-sale-offers-26th-june-deals.75937/#post-125067%23mbcommentlink:3450)
+[ERROR - 2016-07-09T12:00:56.937Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:00:56.937Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:01:00.280Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:01:00.281Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:01:29.018Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:01:29.018Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/footwear-brand-sale-flat-60-off-on-top-branded-footwears.77949/:2949)
+[ERROR - 2016-07-09T12:01:37.296Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:01:37.297Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:01:45.806Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:01:45.806Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:01:48.770Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:01:48.770Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:02:05.803Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:02:05.803Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/tatasky-jingalala-saturday-offer-have-more-than-1-tv-at-home-1st-month-subscription-free.78397/:2956)
+[ERROR - 2016-07-09T12:02:11.287Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:02:11.287Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:02:18.721Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:02:18.721Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:02:23.329Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:02:23.329Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:03:16.911Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T12:03:16.911Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T12:03:34.265Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:03:34.265Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/sale-upto-50-off-on-footwear.77130/:3259)
+[ERROR - 2016-07-09T12:03:39.118Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:03:39.118Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:04:08.813Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:04:08.813Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:04:11.804Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:04:11.804Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:04:39.416Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:04:39.416Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/tata-cliq-%E2%80%93-feel-good-sale-%E2%80%93-1st-july-to-31st-july-9pm-to-9am.77378/#post-124900%23mbcommentlink:3604)
+[ERROR - 2016-07-09T12:04:54.988Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:04:54.988Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:04:58.993Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:04:58.994Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:05:04.170Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:05:04.170Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:05:05.372Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T12:05:05.372Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T12:05:05.382Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+[ERROR - 2016-07-09T12:05:05.382Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+[ERROR - 2016-07-09T12:05:20.181Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:05:20.182Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/womens-kurtas-at-below-rs699-starts-at-rs275.78461/:2969)
+[ERROR - 2016-07-09T12:05:27.178Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:05:27.179Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[INFO  - 2016-07-09T12:05:27.702Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-09T12:05:30.220Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:05:30.220Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:05:43.810Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-07-09T12:05:43.810Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (http://www.amazon.in/Maharaja-Whiteline-Thunder-20-Litre-Cooler/dp/B00H1RT0OW:11792)
+  m (http://www.amazon.in/Maharaja-Whiteline-Thunder-20-Litre-Cooler/dp/B00H1RT0OW:228)
+  (anonymous function) (http://www.amazon.in/Maharaja-Whiteline-Thunder-20-Litre-Cooler/dp/B00H1RT0OW:230)
+  K (http://www.amazon.in/Maharaja-Whiteline-Thunder-20-Litre-Cooler/dp/B00H1RT0OW:232)
+[ERROR - 2016-07-09T12:06:12.543Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:06:12.543Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/maharaja-whiteline-thunder-20-litre-air-cooler-white-5111-mrp-9649.78480/:2953)
+[ERROR - 2016-07-09T12:06:34.077Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:06:34.078Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:06:37.526Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:06:37.526Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[ERROR - 2016-07-09T12:06:45.044Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:06:45.044Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+[ERROR - 2016-07-09T12:06:54.590Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-07-09T12:06:54.590Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  (anonymous function) (http://www.amazon.in/Cello-Dura-30-Litre-Cooler-White/dp/B01BSQR9H6:11111)
+  m (http://www.amazon.in/Cello-Dura-30-Litre-Cooler-White/dp/B01BSQR9H6:228)
+  (anonymous function) (http://www.amazon.in/Cello-Dura-30-Litre-Cooler-White/dp/B01BSQR9H6:230)
+  K (http://www.amazon.in/Cello-Dura-30-Litre-Cooler-White/dp/B01BSQR9H6:232)
+[ERROR - 2016-07-09T12:07:17.719Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T12:07:17.719Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  global code (http://www.mytokri.com/cello-dura-cool-30-litre-air-cooler-white-grey-7299-19-off.74829/#post-125045%23mbcommentlink:3268)
+[ERROR - 2016-07-09T12:07:22.483Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - msg: ReferenceError: Can't find variable: ap
+[ERROR - 2016-07-09T12:07:22.483Z] Session [a1a8e690-45ca-11e6-81c6-598161078660] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[INFO  - 2016-07-09T12:07:55.808Z] GhostDriver - Main - running on port 8378
+[INFO  - 2016-07-09T12:07:56.030Z] Session [c52fdf80-45cd-11e6-9baf-65ba687963ff] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T12:07:56.030Z] Session [c52fdf80-45cd-11e6-9baf-65ba687963ff] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T12:07:56.030Z] Session [c52fdf80-45cd-11e6-9baf-65ba687963ff] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T12:07:56.031Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c52fdf80-45cd-11e6-9baf-65ba687963ff
+[INFO  - 2016-07-09T12:08:11.696Z] ShutdownReqHand - _handle - About to shutdown
