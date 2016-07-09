@@ -49,8 +49,10 @@ public class UserAgent {
 					  "contests forum","chit chat forum","log in",
 					  "site questions"};
 				error = 0;
-				driver.findElement(By.xpath("//*[@id='mytokrinav']/li[3]/a")).click();   
-				Actions action = new Actions(driver);
+				Actions actions = new Actions(driver);
+				WebElement mainMenu = driver.findElement(By.xpath("//*[@id='mytokrinav']/li[3]/a"));
+				actions.moveToElement(mainMenu);   
+				//Actions action = new Actions(driver);
 			
 				 File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 			    try{
