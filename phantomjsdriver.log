@@ -8988,3 +8988,59 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
   (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
   e (http://static.adpushup.com/js/adpushupadsv2.js:1)
   a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+[INFO  - 2016-07-09T07:12:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T07:17:39.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-09T07:18:14.204Z] GhostDriver - Main - running on port 31758
+[INFO  - 2016-07-09T07:18:14.706Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-09T07:18:14.706Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.customHeaders:  - {}
+[INFO  - 2016-07-09T07:18:14.706Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-09T07:18:14.706Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0
+[ERROR - 2016-07-09T07:19:16.327Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:19:16.327Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:19:46.014Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:19:46.015Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4835)
+[ERROR - 2016-07-09T07:20:10.537Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:20:10.537Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:20:19.423Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:20:19.424Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/coupons/:4551)
+[ERROR - 2016-07-09T07:20:29.217Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:20:29.217Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:20:44.925Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:20:44.925Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/freebies/:4543)
+[ERROR - 2016-07-09T07:20:51.828Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:20:51.829Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:21:02.671Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:02.671Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/help-me-find-a-deal/:4367)
+[ERROR - 2016-07-09T07:21:10.837Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:10.837Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:21:16.276Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:16.276Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4211)
+[ERROR - 2016-07-09T07:21:20.378Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:20.378Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:21:27.831Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:27.831Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4586)
+[ERROR - 2016-07-09T07:21:34.353Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:34.354Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:21:40.475Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:40.476Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2459)
+[ERROR - 2016-07-09T07:21:43.596Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:43.597Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3072)
+[ERROR - 2016-07-09T07:21:53.609Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+[ERROR - 2016-07-09T07:21:53.610Z] Session [4d1c4ec0-45a5-11e6-bf4f-bf0d064abda0] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5254)
+[INFO  - 2016-07-09T07:21:56.201Z] ShutdownReqHand - _handle - About to shutdown
