@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="119" started-at="2016-07-09T12:17:11Z" finished-at="2016-07-09T12:17:11Z">
+  <suite name="Default suite" duration-ms="142" started-at="2016-07-11T05:02:57Z" finished-at="2016-07-11T05:02:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="119" started-at="2016-07-09T12:17:11Z" finished-at="2016-07-09T12:17:11Z">
-      <class name="firsttestngproject.temp">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.temp@cc285f4]" name="setUp" is-config="true" duration-ms="32492" started-at="2016-07-09T17:46:39Z" finished-at="2016-07-09T17:47:11Z">
+    <test name="Default test" duration-ms="142" started-at="2016-07-11T05:02:57Z" finished-at="2016-07-11T05:02:57Z">
+      <class name="firsttestngproject.dummy1">
+        <test-method status="PASS" signature="f()[pri:0, instance:firsttestngproject.dummy1@7c16905e]" name="f" duration-ms="45" started-at="2016-07-11T10:32:57Z" finished-at="2016-07-11T10:32:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testing()[pri:1, instance:firsttestngproject.temp@cc285f4]" name="testing" duration-ms="95" started-at="2016-07-09T17:47:11Z" finished-at="2016-07-09T17:47:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testing -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.temp@cc285f4]" name="tearDown" is-config="true" duration-ms="86" started-at="2016-07-09T17:47:11Z" finished-at="2016-07-09T17:47:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- firsttestngproject.temp -->
+        </test-method> <!-- f -->
+      </class> <!-- firsttestngproject.dummy1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
