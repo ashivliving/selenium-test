@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="142" started-at="2016-07-11T05:02:57Z" finished-at="2016-07-11T05:02:57Z">
+  <suite name="Default suite" duration-ms="14041" started-at="2016-07-11T05:15:43Z" finished-at="2016-07-11T05:15:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="142" started-at="2016-07-11T05:02:57Z" finished-at="2016-07-11T05:02:57Z">
-      <class name="firsttestngproject.dummy1">
-        <test-method status="PASS" signature="f()[pri:0, instance:firsttestngproject.dummy1@7c16905e]" name="f" duration-ms="45" started-at="2016-07-11T10:32:57Z" finished-at="2016-07-11T10:32:57Z">
+    <test name="Default test" duration-ms="14041" started-at="2016-07-11T05:15:43Z" finished-at="2016-07-11T05:15:57Z">
+      <class name="firsttestngproject.phantom">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firsttestngproject.phantom@cc285f4]" name="setUp" is-config="true" duration-ms="21187" started-at="2016-07-11T10:45:22Z" finished-at="2016-07-11T10:45:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- firsttestngproject.dummy1 -->
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkTitle()[pri:1, instance:firsttestngproject.phantom@cc285f4]" name="checkTitle" duration-ms="190" started-at="2016-07-11T10:45:43Z" finished-at="2016-07-11T10:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkLogIn()[pri:2, instance:firsttestngproject.phantom@cc285f4]" name="checkLogIn" duration-ms="13826" started-at="2016-07-11T10:45:43Z" finished-at="2016-07-11T10:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:firsttestngproject.phantom@cc285f4]" name="tearDown" is-config="true" duration-ms="125" started-at="2016-07-11T10:45:57Z" finished-at="2016-07-11T10:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- firsttestngproject.phantom -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
